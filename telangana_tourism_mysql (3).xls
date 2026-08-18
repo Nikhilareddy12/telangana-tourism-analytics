@@ -1,0 +1,3529 @@
+year,month_num,month,district,visitors
+2014,1,January,Adilabad,560219.0
+2014,1,January,Hyd & R R Dist.,818916.0
+2014,1,January,Karimnagar,1900549.0
+2014,1,January,Khammam,477337.0
+2014,1,January,Mahabubnagar,729309.0
+2014,1,January,Medak,60186.0
+2014,1,January,Nalgonda,1271861.0
+2014,1,January,Nizamabad,673.0
+2014,1,January,Warangal,1235676.0
+2014,2,February,Adilabad,568050.0
+2014,2,February,Hyd & R R Dist.,602382.0
+2014,2,February,Karimnagar,1946638.0
+2014,2,February,Khammam,361970.0
+2014,2,February,Mahabubnagar,699514.0
+2014,2,February,Medak,677379.0
+2014,2,February,Nalgonda,198204.0
+2014,2,February,Nizamabad,395.0
+2014,2,February,Warangal,16035642.0
+2014,3,March,Adilabad,558751.0
+2014,3,March,Hyd & R R Dist.,621954.0
+2014,3,March,Karimnagar,665732.0
+2014,3,March,Khammam,502731.0
+2014,3,March,Mahabubnagar,559659.0
+2014,3,March,Medak,69139.0
+2014,3,March,Nalgonda,760725.0
+2014,3,March,Nizamabad,395.0
+2014,3,March,Warangal,1012310.0
+2014,4,April,Adilabad,544877.0
+2014,4,April,Hyd & R R Dist.,613155.0
+2014,4,April,Karimnagar,977479.0
+2014,4,April,Khammam,614971.0
+2014,4,April,Mahabubnagar,527052.0
+2014,4,April,Medak,124489.0
+2014,4,April,Nalgonda,666249.0
+2014,4,April,Nizamabad,412.0
+2014,4,April,Warangal,414372.0
+2014,5,May,Adilabad,565515.0
+2014,5,May,Hyd & R R Dist.,1138805.0
+2014,5,May,Karimnagar,949658.0
+2014,5,May,Khammam,516324.0
+2014,5,May,Mahabubnagar,462359.0
+2014,5,May,Medak,128010.0
+2014,5,May,Nalgonda,700838.0
+2014,5,May,Nizamabad,467.0
+2014,5,May,Warangal,438986.0
+2014,6,June,Adilabad,575420.0
+2014,6,June,Hyd & R R Dist.,953240.0
+2014,6,June,Karimnagar,1124889.0
+2014,6,June,Khammam,421287.0
+2014,6,June,Mahabubnagar,394674.0
+2014,6,June,Medak,85292.0
+2014,6,June,Nalgonda,700679.0
+2014,6,June,Nizamabad,726.0
+2014,6,June,Warangal,353295.0
+2014,7,July,Adilabad,571018.0
+2014,7,July,Hyd & R R Dist.,313494.0
+2014,7,July,Karimnagar,586029.0
+2014,7,July,Khammam,479408.0
+2014,7,July,Mahabubnagar,254085.0
+2014,7,July,Medak,64326.0
+2014,7,July,Nalgonda,454931.0
+2014,7,July,Nizamabad,608.0
+2014,7,July,Warangal,399237.0
+2014,8,August,Adilabad,576121.0
+2014,8,August,Hyd & R R Dist.,782657.0
+2014,8,August,Karimnagar,1030134.0
+2014,8,August,Khammam,421330.0
+2014,8,August,Mahabubnagar,173207.0
+2014,8,August,Medak,542052.0
+2014,8,August,Nalgonda,641772.0
+2014,8,August,Nizamabad,589.0
+2014,8,August,Warangal,454931.0
+2014,9,September,Adilabad,559519.0
+2014,9,September,Hyd & R R Dist.,693608.0
+2014,9,September,Karimnagar,485551.0
+2014,9,September,Khammam,425849.0
+2014,9,September,Mahabubnagar,172052.0
+2014,9,September,Medak,52330.0
+2014,9,September,Nalgonda,867317.0
+2014,9,September,Nizamabad,650.0
+2014,9,September,Warangal,674980.0
+2014,10,October,Adilabad,582033.0
+2014,10,October,Hyd & R R Dist.,953456.0
+2014,10,October,Karimnagar,582801.0
+2014,10,October,Khammam,413163.0
+2014,10,October,Mahabubnagar,262683.0
+2014,10,October,Medak,43602.0
+2014,10,October,Nalgonda,680237.0
+2014,10,October,Nizamabad,726.0
+2014,10,October,Warangal,569946.0
+2014,11,November,Adilabad,620480.0
+2014,11,November,Hyd & R R Dist.,821686.0
+2014,11,November,Karimnagar,842652.0
+2014,11,November,Khammam,310625.0
+2014,11,November,Mahabubnagar,530943.0
+2014,11,November,Medak,29959.0
+2014,11,November,Nalgonda,685716.0
+2014,11,November,Nizamabad,663.0
+2014,11,November,Warangal,811397.0
+2014,12,December,Adilabad,653123.0
+2014,12,December,Hyd & R R Dist.,984073.0
+2014,12,December,Karimnagar,856213.0
+2014,12,December,Khammam,279225.0
+2014,12,December,Mahabubnagar,625658.0
+2014,12,December,Medak,94073.0
+2014,12,December,Nalgonda,769298.0
+2014,12,December,Nizamabad,576.0
+2014,12,December,Warangal,826505.0
+2015,1,January,Adilabad,824987.0
+2015,1,January,Hyd & R R Dist.,902910.0
+2015,1,January,Karimnagar,836924.0
+2015,1,January,Khammam,450517.0
+2015,1,January,Mahabubnagar,873775.0
+2015,1,January,Medak,63195.0
+2015,1,January,Nalgonda,756029.0
+2015,1,January,Nizamabad,781.0
+2015,1,January,Warangal,1340115.0
+2015,2,February,Adilabad,599592.0
+2015,2,February,Hyd & R R Dist.,522845.0
+2015,2,February,Karimnagar,1409365.0
+2015,2,February,Khammam,439925.0
+2015,2,February,Mahabubnagar,543568.0
+2015,2,February,Medak,711247.0
+2015,2,February,Nalgonda,711405.0
+2015,2,February,Nizamabad,5856.0
+2015,2,February,Warangal,1291661.0
+2015,3,March,Adilabad,616384.0
+2015,3,March,Hyd & R R Dist.,751393.0
+2015,3,March,Karimnagar,1290865.0
+2015,3,March,Khammam,643486.0
+2015,3,March,Mahabubnagar,539322.0
+2015,3,March,Medak,42595.0
+2015,3,March,Nalgonda,89989.0
+2015,3,March,Nizamabad,658.0
+2015,3,March,Warangal,789216.0
+2015,4,April,Adilabad,624769.0
+2015,4,April,Hyd & R R Dist.,594667.0
+2015,4,April,Karimnagar,979542.0
+2015,4,April,Khammam,525879.0
+2015,4,April,Mahabubnagar,432527.0
+2015,4,April,Medak,44725.0
+2015,4,April,Nalgonda,656850.0
+2015,4,April,Nizamabad,732.0
+2015,4,April,Warangal,535859.0
+2015,5,May,Adilabad,695735.0
+2015,5,May,Hyd & R R Dist.,1145335.0
+2015,5,May,Karimnagar,1273858.0
+2015,5,May,Khammam,443210.0
+2015,5,May,Mahabubnagar,466586.0
+2015,5,May,Medak,46961.0
+2015,5,May,Nalgonda,662185.0
+2015,5,May,Nizamabad,718.0
+2015,5,May,Warangal,562757.0
+2015,6,June,Adilabad,668510.0
+2015,6,June,Hyd & R R Dist.,803711.0
+2015,6,June,Karimnagar,1130333.0
+2015,6,June,Khammam,402618.0
+2015,6,June,Mahabubnagar,431259.0
+2015,6,June,Medak,49309.0
+2015,6,June,Nalgonda,684385.0
+2015,6,June,Nizamabad,595.0
+2015,6,June,Warangal,378160.0
+2015,7,July,Adilabad,8465858.0
+2015,7,July,Hyd & R R Dist.,725689.0
+2015,7,July,Karimnagar,19124512.0
+2015,7,July,Khammam,5876632.0
+2015,7,July,Mahabubnagar,432330.0
+2015,7,July,Medak,50621.0
+2015,7,July,Nalgonda,627537.0
+2015,7,July,Nizamabad,1083.0
+2015,7,July,Warangal,1730743.0
+2015,8,August,Adilabad,663984.0
+2015,8,August,Hyd & R R Dist.,806756.0
+2015,8,August,Karimnagar,625540.0
+2015,8,August,Khammam,514519.0
+2015,8,August,Mahabubnagar,481247.0
+2015,8,August,Medak,381057.0
+2015,8,August,Nalgonda,425044.0
+2015,8,August,Nizamabad,765.0
+2015,8,August,Warangal,600560.0
+2015,9,September,Adilabad,694871.0
+2015,9,September,Hyd & R R Dist.,621200.0
+2015,9,September,Karimnagar,891100.0
+2015,9,September,Khammam,469084.0
+2015,9,September,Mahabubnagar,469355.0
+2015,9,September,Medak,285790.0
+2015,9,September,Nalgonda,675537.0
+2015,9,September,Nizamabad,714.0
+2015,9,September,Warangal,383817.0
+2015,10,October,Adilabad,842756.0
+2015,10,October,Hyd & R R Dist.,869958.0
+2015,10,October,Karimnagar,536076.0
+2015,10,October,Khammam,610359.0
+2015,10,October,Mahabubnagar,442446.0
+2015,10,October,Medak,267260.0
+2015,10,October,Nalgonda,700694.0
+2015,10,October,Nizamabad,723.0
+2015,10,October,Warangal,626261.0
+2015,11,November,Adilabad,784582.0
+2015,11,November,Hyd & R R Dist.,818471.0
+2015,11,November,Karimnagar,1259877.0
+2015,11,November,Khammam,414367.0
+2015,11,November,Mahabubnagar,601022.0
+2015,11,November,Medak,153000.0
+2015,11,November,Nalgonda,704465.0
+2015,11,November,Nizamabad,575.0
+2015,11,November,Warangal,733276.0
+2015,12,December,Adilabad,824371.0
+2015,12,December,Hyd & R R Dist.,1036011.0
+2015,12,December,Karimnagar,1569395.0
+2015,12,December,Khammam,564097.0
+2015,12,December,Mahabubnagar,1131305.0
+2015,12,December,Medak,244500.0
+2015,12,December,Nalgonda,626788.0
+2015,12,December,Nizamabad,619.0
+2015,12,December,Warangal,836737.0
+2016,1,January,Adilabad,792136.0
+2016,1,January,Bhadradri Kothagudem,NULL
+2016,1,January,Hyderabad,1122510.0
+2016,1,January,Jagtial,NULL
+2016,1,January,Jangaon,NULL
+2016,1,January,Jayashankar Bhoopalpally,NULL
+2016,1,January,Jogulamba Gadwal,NULL
+2016,1,January,Kamareddy,NULL
+2016,1,January,Karimnagar,1984442.0
+2016,1,January,Khammam,651827.0
+2016,1,January,Komaram Bheem Asifabad,NULL
+2016,1,January,Mahabubabad,NULL
+2016,1,January,Mahabubnagar,577071.0
+2016,1,January,Mancherial,NULL
+2016,1,January,Medak,92600.0
+2016,1,January,Medchal,NULL
+2016,1,January,Nagarkurnool,NULL
+2016,1,January,Nalgonda,566515.0
+2016,1,January,Nirmal,NULL
+2016,1,January,Nizamabad,576.0
+2016,1,January,Peddapalli,NULL
+2016,1,January,Rajanna Sircilla,NULL
+2016,1,January,Ranga Reddy,NULL
+2016,1,January,Sangareddy,NULL
+2016,1,January,Siddipet,NULL
+2016,1,January,Suryapet,NULL
+2016,1,January,Vikarabad,NULL
+2016,1,January,Wanaparthy,NULL
+2016,1,January,Warangal (Rural),NULL
+2016,1,January,Warangal (Urban),1985815.0
+2016,1,January,Yadadri Bhongir,NULL
+2016,2,February,Adilabad,937820.0
+2016,2,February,Bhadradri Kothagudem,NULL
+2016,2,February,Hyderabad,778748.0
+2016,2,February,Jagtial,NULL
+2016,2,February,Jangaon,NULL
+2016,2,February,Jayashankar Bhoopalpally,NULL
+2016,2,February,Jogulamba Gadwal,NULL
+2016,2,February,Kamareddy,NULL
+2016,2,February,Karimnagar,779960.0
+2016,2,February,Khammam,407533.0
+2016,2,February,Komaram Bheem Asifabad,NULL
+2016,2,February,Mahabubabad,NULL
+2016,2,February,Mahabubnagar,1312068.0
+2016,2,February,Mancherial,NULL
+2016,2,February,Medak,215000.0
+2016,2,February,Medchal,NULL
+2016,2,February,Nagarkurnool,NULL
+2016,2,February,Nalgonda,539467.0
+2016,2,February,Nirmal,NULL
+2016,2,February,Nizamabad,869.0
+2016,2,February,Peddapalli,NULL
+2016,2,February,Rajanna Sircilla,NULL
+2016,2,February,Ranga Reddy,NULL
+2016,2,February,Sangareddy,NULL
+2016,2,February,Siddipet,NULL
+2016,2,February,Suryapet,NULL
+2016,2,February,Vikarabad,NULL
+2016,2,February,Wanaparthy,NULL
+2016,2,February,Warangal (Rural),NULL
+2016,2,February,Warangal (Urban),20703778.0
+2016,2,February,Yadadri Bhongir,NULL
+2016,3,March,Adilabad,582946.0
+2016,3,March,Bhadradri Kothagudem,NULL
+2016,3,March,Hyderabad,1017794.0
+2016,3,March,Jagtial,NULL
+2016,3,March,Jangaon,NULL
+2016,3,March,Jayashankar Bhoopalpally,NULL
+2016,3,March,Jogulamba Gadwal,NULL
+2016,3,March,Kamareddy,NULL
+2016,3,March,Karimnagar,1018399.0
+2016,3,March,Khammam,458527.0
+2016,3,March,Komaram Bheem Asifabad,NULL
+2016,3,March,Mahabubabad,NULL
+2016,3,March,Mahabubnagar,1731983.0
+2016,3,March,Mancherial,NULL
+2016,3,March,Medak,1318000.0
+2016,3,March,Medchal,NULL
+2016,3,March,Nagarkurnool,NULL
+2016,3,March,Nalgonda,619462.0
+2016,3,March,Nirmal,NULL
+2016,3,March,Nizamabad,408.0
+2016,3,March,Peddapalli,NULL
+2016,3,March,Rajanna Sircilla,NULL
+2016,3,March,Ranga Reddy,NULL
+2016,3,March,Sangareddy,NULL
+2016,3,March,Siddipet,NULL
+2016,3,March,Suryapet,NULL
+2016,3,March,Vikarabad,NULL
+2016,3,March,Wanaparthy,NULL
+2016,3,March,Warangal (Rural),NULL
+2016,3,March,Warangal (Urban),568397.0
+2016,3,March,Yadadri Bhongir,NULL
+2016,4,April,Adilabad,341948.0
+2016,4,April,Bhadradri Kothagudem,NULL
+2016,4,April,Hyderabad,1127738.0
+2016,4,April,Jagtial,NULL
+2016,4,April,Jangaon,NULL
+2016,4,April,Jayashankar Bhoopalpally,NULL
+2016,4,April,Jogulamba Gadwal,NULL
+2016,4,April,Kamareddy,NULL
+2016,4,April,Karimnagar,956959.0
+2016,4,April,Khammam,971622.0
+2016,4,April,Komaram Bheem Asifabad,NULL
+2016,4,April,Mahabubabad,NULL
+2016,4,April,Mahabubnagar,622432.0
+2016,4,April,Mancherial,NULL
+2016,4,April,Medak,300000.0
+2016,4,April,Medchal,NULL
+2016,4,April,Nagarkurnool,NULL
+2016,4,April,Nalgonda,601253.0
+2016,4,April,Nirmal,NULL
+2016,4,April,Nizamabad,476.0
+2016,4,April,Peddapalli,NULL
+2016,4,April,Rajanna Sircilla,NULL
+2016,4,April,Ranga Reddy,NULL
+2016,4,April,Sangareddy,NULL
+2016,4,April,Siddipet,NULL
+2016,4,April,Suryapet,NULL
+2016,4,April,Vikarabad,NULL
+2016,4,April,Wanaparthy,NULL
+2016,4,April,Warangal (Rural),NULL
+2016,4,April,Warangal (Urban),317643.0
+2016,4,April,Yadadri Bhongir,NULL
+2016,5,May,Adilabad,252887.0
+2016,5,May,Bhadradri Kothagudem,NULL
+2016,5,May,Hyderabad,1287181.0
+2016,5,May,Jagtial,NULL
+2016,5,May,Jangaon,NULL
+2016,5,May,Jayashankar Bhoopalpally,NULL
+2016,5,May,Jogulamba Gadwal,NULL
+2016,5,May,Kamareddy,NULL
+2016,5,May,Karimnagar,1095642.0
+2016,5,May,Khammam,433994.0
+2016,5,May,Komaram Bheem Asifabad,NULL
+2016,5,May,Mahabubabad,NULL
+2016,5,May,Mahabubnagar,571898.0
+2016,5,May,Mancherial,NULL
+2016,5,May,Medak,198000.0
+2016,5,May,Medchal,NULL
+2016,5,May,Nagarkurnool,NULL
+2016,5,May,Nalgonda,628872.0
+2016,5,May,Nirmal,NULL
+2016,5,May,Nizamabad,554.0
+2016,5,May,Peddapalli,NULL
+2016,5,May,Rajanna Sircilla,NULL
+2016,5,May,Ranga Reddy,NULL
+2016,5,May,Sangareddy,NULL
+2016,5,May,Siddipet,NULL
+2016,5,May,Suryapet,NULL
+2016,5,May,Vikarabad,NULL
+2016,5,May,Wanaparthy,NULL
+2016,5,May,Warangal (Rural),NULL
+2016,5,May,Warangal (Urban),373788.0
+2016,5,May,Yadadri Bhongir,NULL
+2016,6,June,Adilabad,368237.0
+2016,6,June,Bhadradri Kothagudem,NULL
+2016,6,June,Hyderabad,12032661.0
+2016,6,June,Jagtial,NULL
+2016,6,June,Jangaon,NULL
+2016,6,June,Jayashankar Bhoopalpally,NULL
+2016,6,June,Jogulamba Gadwal,NULL
+2016,6,June,Kamareddy,NULL
+2016,6,June,Karimnagar,914746.0
+2016,6,June,Khammam,445862.0
+2016,6,June,Komaram Bheem Asifabad,NULL
+2016,6,June,Mahabubabad,NULL
+2016,6,June,Mahabubnagar,561006.0
+2016,6,June,Mancherial,NULL
+2016,6,June,Medak,166700.0
+2016,6,June,Medchal,NULL
+2016,6,June,Nagarkurnool,NULL
+2016,6,June,Nalgonda,551239.0
+2016,6,June,Nirmal,NULL
+2016,6,June,Nizamabad,367.0
+2016,6,June,Peddapalli,NULL
+2016,6,June,Rajanna Sircilla,NULL
+2016,6,June,Ranga Reddy,NULL
+2016,6,June,Sangareddy,NULL
+2016,6,June,Siddipet,NULL
+2016,6,June,Suryapet,NULL
+2016,6,June,Vikarabad,NULL
+2016,6,June,Wanaparthy,NULL
+2016,6,June,Warangal (Rural),NULL
+2016,6,June,Warangal (Urban),365332.0
+2016,6,June,Yadadri Bhongir,NULL
+2016,7,July,Adilabad,447562.0
+2016,7,July,Bhadradri Kothagudem,NULL
+2016,7,July,Hyderabad,1096754.0
+2016,7,July,Jagtial,NULL
+2016,7,July,Jangaon,NULL
+2016,7,July,Jayashankar Bhoopalpally,NULL
+2016,7,July,Jogulamba Gadwal,NULL
+2016,7,July,Kamareddy,NULL
+2016,7,July,Karimnagar,401047.0
+2016,7,July,Khammam,414963.0
+2016,7,July,Komaram Bheem Asifabad,NULL
+2016,7,July,Mahabubabad,NULL
+2016,7,July,Mahabubnagar,562322.0
+2016,7,July,Mancherial,NULL
+2016,7,July,Medak,153300.0
+2016,7,July,Medchal,NULL
+2016,7,July,Nagarkurnool,NULL
+2016,7,July,Nalgonda,582820.0
+2016,7,July,Nirmal,NULL
+2016,7,July,Nizamabad,644.0
+2016,7,July,Peddapalli,NULL
+2016,7,July,Rajanna Sircilla,NULL
+2016,7,July,Ranga Reddy,NULL
+2016,7,July,Sangareddy,NULL
+2016,7,July,Siddipet,NULL
+2016,7,July,Suryapet,NULL
+2016,7,July,Vikarabad,NULL
+2016,7,July,Wanaparthy,NULL
+2016,7,July,Warangal (Rural),NULL
+2016,7,July,Warangal (Urban),340320.0
+2016,7,July,Yadadri Bhongir,NULL
+2016,8,August,Adilabad,614285.0
+2016,8,August,Bhadradri Kothagudem,NULL
+2016,8,August,Hyderabad,1061137.0
+2016,8,August,Jagtial,NULL
+2016,8,August,Jangaon,NULL
+2016,8,August,Jayashankar Bhoopalpally,NULL
+2016,8,August,Jogulamba Gadwal,NULL
+2016,8,August,Kamareddy,NULL
+2016,8,August,Karimnagar,1018399.0
+2016,8,August,Khammam,503654.0
+2016,8,August,Komaram Bheem Asifabad,NULL
+2016,8,August,Mahabubabad,NULL
+2016,8,August,Mahabubnagar,1133105.0
+2016,8,August,Mancherial,NULL
+2016,8,August,Medak,216100.0
+2016,8,August,Medchal,NULL
+2016,8,August,Nagarkurnool,NULL
+2016,8,August,Nalgonda,988102.0
+2016,8,August,Nirmal,NULL
+2016,8,August,Nizamabad,589.0
+2016,8,August,Peddapalli,NULL
+2016,8,August,Rajanna Sircilla,NULL
+2016,8,August,Ranga Reddy,NULL
+2016,8,August,Sangareddy,NULL
+2016,8,August,Siddipet,NULL
+2016,8,August,Suryapet,NULL
+2016,8,August,Vikarabad,NULL
+2016,8,August,Wanaparthy,NULL
+2016,8,August,Warangal (Rural),NULL
+2016,8,August,Warangal (Urban),368755.0
+2016,8,August,Yadadri Bhongir,NULL
+2016,9,September,Adilabad,491279.0
+2016,9,September,Bhadradri Kothagudem,NULL
+2016,9,September,Hyderabad,832987.0
+2016,9,September,Jagtial,NULL
+2016,9,September,Jangaon,NULL
+2016,9,September,Jayashankar Bhoopalpally,NULL
+2016,9,September,Jogulamba Gadwal,NULL
+2016,9,September,Kamareddy,NULL
+2016,9,September,Karimnagar,956959.0
+2016,9,September,Khammam,368437.0
+2016,9,September,Komaram Bheem Asifabad,NULL
+2016,9,September,Mahabubabad,NULL
+2016,9,September,Mahabubnagar,567712.0
+2016,9,September,Mancherial,NULL
+2016,9,September,Medak,132600.0
+2016,9,September,Medchal,NULL
+2016,9,September,Nagarkurnool,NULL
+2016,9,September,Nalgonda,742402.0
+2016,9,September,Nirmal,NULL
+2016,9,September,Nizamabad,553.0
+2016,9,September,Peddapalli,NULL
+2016,9,September,Rajanna Sircilla,NULL
+2016,9,September,Ranga Reddy,NULL
+2016,9,September,Sangareddy,NULL
+2016,9,September,Siddipet,NULL
+2016,9,September,Suryapet,NULL
+2016,9,September,Vikarabad,NULL
+2016,9,September,Wanaparthy,NULL
+2016,9,September,Warangal (Rural),NULL
+2016,9,September,Warangal (Urban),379210.0
+2016,9,September,Yadadri Bhongir,NULL
+2016,10,October,Adilabad,94184.0
+2016,10,October,Bhadradri Kothagudem,310133.0
+2016,10,October,Hyderabad,901960.0
+2016,10,October,Jagtial,201249.0
+2016,10,October,Jangaon,14770.0
+2016,10,October,Jayashankar Bhoopalpally,76360.0
+2016,10,October,Jogulamba Gadwal,152898.0
+2016,10,October,Kamareddy,47.0
+2016,10,October,Karimnagar,13675.0
+2016,10,October,Khammam,121575.0
+2016,10,October,Komaram Bheem Asifabad,0.0
+2016,10,October,Mahabubabad,13032.0
+2016,10,October,Mahabubnagar,198592.0
+2016,10,October,Mancherial,3124.0
+2016,10,October,Medak,15600.0
+2016,10,October,Medchal,NULL
+2016,10,October,Nagarkurnool,201050.0
+2016,10,October,Nalgonda,3508.0
+2016,10,October,Nirmal,475955.0
+2016,10,October,Nizamabad,434.0
+2016,10,October,Peddapalli,950.0
+2016,10,October,Rajanna Sircilla,534484.0
+2016,10,October,Ranga Reddy,NULL
+2016,10,October,Sangareddy,274000.0
+2016,10,October,Siddipet,123500.0
+2016,10,October,Suryapet,0.0
+2016,10,October,Vikarabad,NULL
+2016,10,October,Wanaparthy,21234.0
+2016,10,October,Warangal (Rural),8200.0
+2016,10,October,Warangal (Urban),128247.0
+2016,10,October,Yadadri Bhongir,584800.0
+2016,11,November,Adilabad,99148.0
+2016,11,November,Bhadradri Kothagudem,252127.0
+2016,11,November,Hyderabad,909733.0
+2016,11,November,Jagtial,214534.0
+2016,11,November,Jangaon,13210.0
+2016,11,November,Jayashankar Bhoopalpally,81580.0
+2016,11,November,Jogulamba Gadwal,188170.0
+2016,11,November,Kamareddy,38.0
+2016,11,November,Karimnagar,13350.0
+2016,11,November,Khammam,110634.0
+2016,11,November,Komaram Bheem Asifabad,0.0
+2016,11,November,Mahabubabad,114015.0
+2016,11,November,Mahabubnagar,256375.0
+2016,11,November,Mancherial,2255.0
+2016,11,November,Medak,132300.0
+2016,11,November,Medchal,NULL
+2016,11,November,Nagarkurnool,188786.0
+2016,11,November,Nalgonda,21046.0
+2016,11,November,Nirmal,201388.0
+2016,11,November,Nizamabad,617.0
+2016,11,November,Peddapalli,1145.0
+2016,11,November,Rajanna Sircilla,864077.0
+2016,11,November,Ranga Reddy,NULL
+2016,11,November,Sangareddy,349000.0
+2016,11,November,Siddipet,154400.0
+2016,11,November,Suryapet,0.0
+2016,11,November,Vikarabad,NULL
+2016,11,November,Wanaparthy,18348.0
+2016,11,November,Warangal (Rural),6050.0
+2016,11,November,Warangal (Urban),129250.0
+2016,11,November,Yadadri Bhongir,681000.0
+2016,12,December,Adilabad,53125.0
+2016,12,December,Bhadradri Kothagudem,326770.0
+2016,12,December,Hyderabad,1225502.0
+2016,12,December,Jagtial,207294.0
+2016,12,December,Jangaon,12680.0
+2016,12,December,Jayashankar Bhoopalpally,85460.0
+2016,12,December,Jogulamba Gadwal,182333.0
+2016,12,December,Kamareddy,42.0
+2016,12,December,Karimnagar,13890.0
+2016,12,December,Khammam,116403.0
+2016,12,December,Komaram Bheem Asifabad,0.0
+2016,12,December,Mahabubabad,12955.0
+2016,12,December,Mahabubnagar,210202.0
+2016,12,December,Mancherial,2423.0
+2016,12,December,Medak,523000.0
+2016,12,December,Medchal,NULL
+2016,12,December,Nagarkurnool,198637.0
+2016,12,December,Nalgonda,13775.0
+2016,12,December,Nirmal,239267.0
+2016,12,December,Nizamabad,355.0
+2016,12,December,Peddapalli,1149.0
+2016,12,December,Rajanna Sircilla,778240.0
+2016,12,December,Ranga Reddy,NULL
+2016,12,December,Sangareddy,155000.0
+2016,12,December,Siddipet,80500.0
+2016,12,December,Suryapet,0.0
+2016,12,December,Vikarabad,NULL
+2016,12,December,Wanaparthy,20556.0
+2016,12,December,Warangal (Rural),5150.0
+2016,12,December,Warangal (Urban),127500.0
+2016,12,December,Yadadri Bhongir,462800.0
+2017,1,January,Adilabad,318799.0
+2017,1,January,Bhadradri Kothagudem,302315.0
+2017,1,January,Hyderabad,1924695.0
+2017,1,January,Jagtial,174477.0
+2017,1,January,Jangaon,12280.0
+2017,1,January,Jayashankar Bhoopalpally,96560.0
+2017,1,January,Jogulamba Gadwal,214887.0
+2017,1,January,Kamareddy,58.0
+2017,1,January,Karimnagar,14425.0
+2017,1,January,Khammam,132528.0
+2017,1,January,Komaram Bheem Asifabad,2241.0
+2017,1,January,Mahabubabad,13260.0
+2017,1,January,Mahabubnagar,446135.0
+2017,1,January,Mancherial,2937.0
+2017,1,January,Medak,523000.0
+2017,1,January,Medchal,NULL
+2017,1,January,Nagarkurnool,382879.0
+2017,1,January,Nalgonda,4447.0
+2017,1,January,Nirmal,340311.0
+2017,1,January,Nizamabad,613.0
+2017,1,January,Peddapalli,1345.0
+2017,1,January,Rajanna Sircilla,615842.0
+2017,1,January,Ranga Reddy,NULL
+2017,1,January,Sangareddy,195000.0
+2017,1,January,Siddipet,80500.0
+2017,1,January,Suryapet,0.0
+2017,1,January,Vikarabad,NULL
+2017,1,January,Wanaparthy,22152.0
+2017,1,January,Warangal (Rural),8000.0
+2017,1,January,Warangal (Urban),130608.0
+2017,1,January,Yadadri Bhongir,678000.0
+2017,2,February,Adilabad,83316.0
+2017,2,February,Bhadradri Kothagudem,251359.0
+2017,2,February,Hyderabad,1886698.0
+2017,2,February,Jagtial,159659.0
+2017,2,February,Jangaon,12610.0
+2017,2,February,Jayashankar Bhoopalpally,96850.0
+2017,2,February,Jogulamba Gadwal,481110.0
+2017,2,February,Kamareddy,50.0
+2017,2,February,Karimnagar,10845.0
+2017,2,February,Khammam,115470.0
+2017,2,February,Komaram Bheem Asifabad,2490.0
+2017,2,February,Mahabubabad,13045.0
+2017,2,February,Mahabubnagar,805392.0
+2017,2,February,Mancherial,3130.0
+2017,2,February,Medak,543321.0
+2017,2,February,Medchal,NULL
+2017,2,February,Nagarkurnool,286258.0
+2017,2,February,Nalgonda,8652.0
+2017,2,February,Nirmal,415326.0
+2017,2,February,Nizamabad,1752.0
+2017,2,February,Peddapalli,1378.0
+2017,2,February,Rajanna Sircilla,1255569.0
+2017,2,February,Ranga Reddy,NULL
+2017,2,February,Sangareddy,140000.0
+2017,2,February,Siddipet,80500.0
+2017,2,February,Suryapet,0.0
+2017,2,February,Vikarabad,NULL
+2017,2,February,Wanaparthy,22342.0
+2017,2,February,Warangal (Rural),8300.0
+2017,2,February,Warangal (Urban),126608.0
+2017,2,February,Yadadri Bhongir,540500.0
+2017,3,March,Adilabad,27508.0
+2017,3,March,Bhadradri Kothagudem,243943.0
+2017,3,March,Hyderabad,1783903.0
+2017,3,March,Jagtial,323658.0
+2017,3,March,Jangaon,8450.0
+2017,3,March,Jayashankar Bhoopalpally,81400.0
+2017,3,March,Jogulamba Gadwal,155013.0
+2017,3,March,Kamareddy,41.0
+2017,3,March,Karimnagar,9625.0
+2017,3,March,Khammam,101878.0
+2017,3,March,Komaram Bheem Asifabad,2767.0
+2017,3,March,Mahabubabad,9100.0
+2017,3,March,Mahabubnagar,178256.0
+2017,3,March,Mancherial,2775.0
+2017,3,March,Medak,548535.0
+2017,3,March,Medchal,NULL
+2017,3,March,Nagarkurnool,184508.0
+2017,3,March,Nalgonda,8054.0
+2017,3,March,Nirmal,442057.0
+2017,3,March,Nizamabad,660.0
+2017,3,March,Peddapalli,965.0
+2017,3,March,Rajanna Sircilla,1030441.0
+2017,3,March,Ranga Reddy,NULL
+2017,3,March,Sangareddy,275000.0
+2017,3,March,Siddipet,80500.0
+2017,3,March,Suryapet,0.0
+2017,3,March,Vikarabad,NULL
+2017,3,March,Wanaparthy,20050.0
+2017,3,March,Warangal (Rural),7800.0
+2017,3,March,Warangal (Urban),118298.0
+2017,3,March,Yadadri Bhongir,525588.0
+2017,4,April,Adilabad,13946.0
+2017,4,April,Bhadradri Kothagudem,667459.0
+2017,4,April,Hyderabad,2366793.0
+2017,4,April,Jagtial,330540.0
+2017,4,April,Jangaon,9788.0
+2017,4,April,Jayashankar Bhoopalpally,90700.0
+2017,4,April,Jogulamba Gadwal,131426.0
+2017,4,April,Kamareddy,46.0
+2017,4,April,Karimnagar,8630.0
+2017,4,April,Khammam,135920.0
+2017,4,April,Komaram Bheem Asifabad,3074.0
+2017,4,April,Mahabubabad,9140.0
+2017,4,April,Mahabubnagar,208694.0
+2017,4,April,Mancherial,1513.0
+2017,4,April,Medak,554864.0
+2017,4,April,Medchal,NULL
+2017,4,April,Nagarkurnool,183697.0
+2017,4,April,Nalgonda,44295.0
+2017,4,April,Nirmal,274132.0
+2017,4,April,Nizamabad,1048.0
+2017,4,April,Peddapalli,750.0
+2017,4,April,Rajanna Sircilla,1146782.0
+2017,4,April,Ranga Reddy,NULL
+2017,4,April,Sangareddy,215000.0
+2017,4,April,Siddipet,80500.0
+2017,4,April,Suryapet,0.0
+2017,4,April,Vikarabad,NULL
+2017,4,April,Wanaparthy,11502.0
+2017,4,April,Warangal (Rural),7600.0
+2017,4,April,Warangal (Urban),107133.0
+2017,4,April,Yadadri Bhongir,570000.0
+2017,5,May,Adilabad,11752.0
+2017,5,May,Bhadradri Kothagudem,311626.0
+2017,5,May,Hyderabad,2266793.0
+2017,5,May,Jagtial,468038.0
+2017,5,May,Jangaon,12130.0
+2017,5,May,Jayashankar Bhoopalpally,91150.0
+2017,5,May,Jogulamba Gadwal,131426.0
+2017,5,May,Kamareddy,60.0
+2017,5,May,Karimnagar,8890.0
+2017,5,May,Khammam,138799.0
+2017,5,May,Komaram Bheem Asifabad,3416.0
+2017,5,May,Mahabubabad,10220.0
+2017,5,May,Mahabubnagar,214209.0
+2017,5,May,Mancherial,1424.0
+2017,5,May,Medak,556891.0
+2017,5,May,Medchal,NULL
+2017,5,May,Nagarkurnool,183697.0
+2017,5,May,Nalgonda,10750.0
+2017,5,May,Nirmal,297233.0
+2017,5,May,Nizamabad,1341.0
+2017,5,May,Peddapalli,640.0
+2017,5,May,Rajanna Sircilla,1117228.0
+2017,5,May,Ranga Reddy,NULL
+2017,5,May,Sangareddy,215000.0
+2017,5,May,Siddipet,80500.0
+2017,5,May,Suryapet,0.0
+2017,5,May,Vikarabad,NULL
+2017,5,May,Wanaparthy,11502.0
+2017,5,May,Warangal (Rural),8500.0
+2017,5,May,Warangal (Urban),109915.0
+2017,5,May,Yadadri Bhongir,458700.0
+2017,6,June,Adilabad,26859.0
+2017,6,June,Bhadradri Kothagudem,351742.0
+2017,6,June,Hyderabad,2007060.0
+2017,6,June,Jagtial,418103.0
+2017,6,June,Jangaon,13750.0
+2017,6,June,Jayashankar Bhoopalpally,93650.0
+2017,6,June,Jogulamba Gadwal,160182.0
+2017,6,June,Kamareddy,41.0
+2017,6,June,Karimnagar,10542.0
+2017,6,June,Khammam,138158.0
+2017,6,June,Komaram Bheem Asifabad,3796.0
+2017,6,June,Mahabubabad,10130.0
+2017,6,June,Mahabubnagar,179210.0
+2017,6,June,Mancherial,2119.0
+2017,6,June,Medak,561469.0
+2017,6,June,Medchal,NULL
+2017,6,June,Nagarkurnool,180010.0
+2017,6,June,Nalgonda,37879.0
+2017,6,June,Nirmal,340359.0
+2017,6,June,Nizamabad,2391.0
+2017,6,June,Peddapalli,885.0
+2017,6,June,Rajanna Sircilla,1113882.0
+2017,6,June,Ranga Reddy,NULL
+2017,6,June,Sangareddy,180000.0
+2017,6,June,Siddipet,60000.0
+2017,6,June,Suryapet,0.0
+2017,6,June,Vikarabad,NULL
+2017,6,June,Wanaparthy,19092.0
+2017,6,June,Warangal (Rural),9000.0
+2017,6,June,Warangal (Urban),111530.0
+2017,6,June,Yadadri Bhongir,685880.0
+2017,7,July,Adilabad,52386.0
+2017,7,July,Bhadradri Kothagudem,258114.0
+2017,7,July,Hyderabad,1890870.0
+2017,7,July,Jagtial,247254.0
+2017,7,July,Jangaon,16050.0
+2017,7,July,Jayashankar Bhoopalpally,94700.0
+2017,7,July,Jogulamba Gadwal,160182.0
+2017,7,July,Kamareddy,41.0
+2017,7,July,Karimnagar,12350.0
+2017,7,July,Khammam,105102.0
+2017,7,July,Komaram Bheem Asifabad,3713.0
+2017,7,July,Mahabubabad,10170.0
+2017,7,July,Mahabubnagar,179099.0
+2017,7,July,Mancherial,33591.0
+2017,7,July,Medak,575300.0
+2017,7,July,Medchal,NULL
+2017,7,July,Nagarkurnool,180010.0
+2017,7,July,Nalgonda,21361.0
+2017,7,July,Nirmal,328101.0
+2017,7,July,Nizamabad,1520.0
+2017,7,July,Peddapalli,1095.0
+2017,7,July,Rajanna Sircilla,462022.0
+2017,7,July,Ranga Reddy,NULL
+2017,7,July,Sangareddy,195000.0
+2017,7,July,Siddipet,88550.0
+2017,7,July,Suryapet,0.0
+2017,7,July,Vikarabad,NULL
+2017,7,July,Wanaparthy,19092.0
+2017,7,July,Warangal (Rural),13600.0
+2017,7,July,Warangal (Urban),116545.0
+2017,7,July,Yadadri Bhongir,481240.0
+2017,8,August,Adilabad,34876.0
+2017,8,August,Bhadradri Kothagudem,316438.0
+2017,8,August,Hyderabad,1976980.0
+2017,8,August,Jagtial,386458.0
+2017,8,August,Jangaon,15680.0
+2017,8,August,Jayashankar Bhoopalpally,118350.0
+2017,8,August,Jogulamba Gadwal,131485.0
+2017,8,August,Kamareddy,40.0
+2017,8,August,Karimnagar,10952.0
+2017,8,August,Khammam,129159.0
+2017,8,August,Komaram Bheem Asifabad,3665.0
+2017,8,August,Mahabubabad,12520.0
+2017,8,August,Mahabubnagar,215229.0
+2017,8,August,Mancherial,26104.0
+2017,8,August,Medak,632830.0
+2017,8,August,Medchal,NULL
+2017,8,August,Nagarkurnool,181861.0
+2017,8,August,Nalgonda,9363.0
+2017,8,August,Nirmal,340430.0
+2017,8,August,Nizamabad,1583.0
+2017,8,August,Peddapalli,1385.0
+2017,8,August,Rajanna Sircilla,1004410.0
+2017,8,August,Ranga Reddy,NULL
+2017,8,August,Sangareddy,295000.0
+2017,8,August,Siddipet,97405.0
+2017,8,August,Suryapet,0.0
+2017,8,August,Vikarabad,NULL
+2017,8,August,Wanaparthy,21375.0
+2017,8,August,Warangal (Rural),13650.0
+2017,8,August,Warangal (Urban),116810.0
+2017,8,August,Yadadri Bhongir,680720.0
+2017,9,September,Adilabad,42699.0
+2017,9,September,Bhadradri Kothagudem,381784.0
+2017,9,September,Hyderabad,2011280.0
+2017,9,September,Jagtial,143102.0
+2017,9,September,Jangaon,15600.0
+2017,9,September,Jayashankar Bhoopalpally,112600.0
+2017,9,September,Jogulamba Gadwal,123733.0
+2017,9,September,Kamareddy,41.0
+2017,9,September,Karimnagar,7576.0
+2017,9,September,Khammam,140821.0
+2017,9,September,Komaram Bheem Asifabad,3934.0
+2017,9,September,Mahabubabad,13140.0
+2017,9,September,Mahabubnagar,180675.0
+2017,9,September,Mancherial,24297.0
+2017,9,September,Medak,696113.0
+2017,9,September,Medchal,NULL
+2017,9,September,Nagarkurnool,118010.0
+2017,9,September,Nalgonda,17465.0
+2017,9,September,Nirmal,528540.0
+2017,9,September,Nizamabad,933.0
+2017,9,September,Peddapalli,1155.0
+2017,9,September,Rajanna Sircilla,487060.0
+2017,9,September,Ranga Reddy,NULL
+2017,9,September,Sangareddy,200000.0
+2017,9,September,Siddipet,107146.0
+2017,9,September,Suryapet,0.0
+2017,9,September,Vikarabad,NULL
+2017,9,September,Wanaparthy,35860.0
+2017,9,September,Warangal (Rural),13800.0
+2017,9,September,Warangal (Urban),117150.0
+2017,9,September,Yadadri Bhongir,678925.0
+2017,10,October,Adilabad,41666.0
+2017,10,October,Bhadradri Kothagudem,334504.0
+2017,10,October,Hyderabad,2202316.0
+2017,10,October,Jagtial,248504.0
+2017,10,October,Jangaon,16130.0
+2017,10,October,Jayashankar Bhoopalpally,115250.0
+2017,10,October,Jogulamba Gadwal,152898.0
+2017,10,October,Kamareddy,38.0
+2017,10,October,Karimnagar,8371.0
+2017,10,October,Khammam,155943.0
+2017,10,October,Komaram Bheem Asifabad,14050.0
+2017,10,October,Mahabubabad,13750.0
+2017,10,October,Mahabubnagar,196103.0
+2017,10,October,Mancherial,37671.0
+2017,10,October,Medak,765724.0
+2017,10,October,Medchal,NULL
+2017,10,October,Nagarkurnool,201050.0
+2017,10,October,Nalgonda,36066.0
+2017,10,October,Nirmal,388644.0
+2017,10,October,Nizamabad,6644.0
+2017,10,October,Peddapalli,1595.0
+2017,10,October,Rajanna Sircilla,845620.0
+2017,10,October,Ranga Reddy,NULL
+2017,10,October,Sangareddy,232000.0
+2017,10,October,Siddipet,117861.0
+2017,10,October,Suryapet,0.0
+2017,10,October,Vikarabad,NULL
+2017,10,October,Wanaparthy,21234.0
+2017,10,October,Warangal (Rural),16500.0
+2017,10,October,Warangal (Urban),119255.0
+2017,10,October,Yadadri Bhongir,683500.0
+2017,11,November,Adilabad,117322.0
+2017,11,November,Bhadradri Kothagudem,281515.0
+2017,11,November,Hyderabad,1971438.0
+2017,11,November,Jagtial,348042.0
+2017,11,November,Jangaon,16360.0
+2017,11,November,Jayashankar Bhoopalpally,116800.0
+2017,11,November,Jogulamba Gadwal,188170.0
+2017,11,November,Kamareddy,43.0
+2017,11,November,Karimnagar,8705.0
+2017,11,November,Khammam,110800.0
+2017,11,November,Komaram Bheem Asifabad,3627.0
+2017,11,November,Mahabubabad,13560.0
+2017,11,November,Mahabubnagar,259060.0
+2017,11,November,Mancherial,25737.0
+2017,11,November,Medak,842296.0
+2017,11,November,Medchal,NULL
+2017,11,November,Nagarkurnool,188786.0
+2017,11,November,Nalgonda,17687.0
+2017,11,November,Nirmal,369365.0
+2017,11,November,Nizamabad,1677.0
+2017,11,November,Peddapalli,1940.0
+2017,11,November,Rajanna Sircilla,1191129.0
+2017,11,November,Ranga Reddy,NULL
+2017,11,November,Sangareddy,324500.0
+2017,11,November,Siddipet,129647.0
+2017,11,November,Suryapet,0.0
+2017,11,November,Vikarabad,NULL
+2017,11,November,Wanaparthy,18348.0
+2017,11,November,Warangal (Rural),16300.0
+2017,11,November,Warangal (Urban),119360.0
+2017,11,November,Yadadri Bhongir,537600.0
+2017,12,December,Adilabad,54251.0
+2017,12,December,Bhadradri Kothagudem,393518.0
+2017,12,December,Hyderabad,4871416.0
+2017,12,December,Jagtial,393566.0
+2017,12,December,Jangaon,16880.0
+2017,12,December,Jayashankar Bhoopalpally,723000.0
+2017,12,December,Jogulamba Gadwal,214887.0
+2017,12,December,Kamareddy,41.0
+2017,12,December,Karimnagar,13065.0
+2017,12,December,Khammam,137825.0
+2017,12,December,Komaram Bheem Asifabad,4218.0
+2017,12,December,Mahabubabad,13780.0
+2017,12,December,Mahabubnagar,426167.0
+2017,12,December,Mancherial,30328.0
+2017,12,December,Medak,926526.0
+2017,12,December,Medchal,NULL
+2017,12,December,Nagarkurnool,382879.0
+2017,12,December,Nalgonda,25897.0
+2017,12,December,Nirmal,340585.0
+2017,12,December,Nizamabad,1787.0
+2017,12,December,Peddapalli,1765.0
+2017,12,December,Rajanna Sircilla,1649362.0
+2017,12,December,Ranga Reddy,NULL
+2017,12,December,Sangareddy,356950.0
+2017,12,December,Siddipet,142612.0
+2017,12,December,Suryapet,0.0
+2017,12,December,Vikarabad,NULL
+2017,12,December,Wanaparthy,22152.0
+2017,12,December,Warangal (Rural),21200.0
+2017,12,December,Warangal (Urban),126790.0
+2017,12,December,Yadadri Bhongir,481075.0
+2018,1,January,Adilabad,320356.0
+2018,1,January,Bhadradri Kothagudem,421275.0
+2018,1,January,Hyderabad,1978396.0
+2018,1,January,Jagtial,614082.0
+2018,1,January,Jangaon,17180.0
+2018,1,January,Jayashankar Bhoopalpally,6519850.0
+2018,1,January,Jogulamba Gadwal,146441.0
+2018,1,January,Kamareddy,44.0
+2018,1,January,Karimnagar,13505.0
+2018,1,January,Khammam,110094.0
+2018,1,January,Komaram Bheem Asifabad,2863.0
+2018,1,January,Mahabubabad,14000.0
+2018,1,January,Mahabubnagar,156153.0
+2018,1,January,Mancherial,71955.0
+2018,1,January,Medak,100000.0
+2018,1,January,Medchal,NULL
+2018,1,January,Nagarkurnool,228812.0
+2018,1,January,Nalgonda,36205.0
+2018,1,January,Nirmal,480241.0
+2018,1,January,Nizamabad,2495.0
+2018,1,January,Peddapalli,2670.0
+2018,1,January,Rajanna Sircilla,2238074.0
+2018,1,January,Ranga Reddy,NULL
+2018,1,January,Sangareddy,254000.0
+2018,1,January,Siddipet,253000.0
+2018,1,January,Suryapet,NULL
+2018,1,January,Vikarabad,NULL
+2018,1,January,Wanaparthy,28131.0
+2018,1,January,Warangal (Rural),25200.0
+2018,1,January,Warangal (Urban),137530.0
+2018,1,January,Yadadri Bhongir,2016000.0
+2018,2,February,Adilabad,36550.0
+2018,2,February,Bhadradri Kothagudem,240634.0
+2018,2,February,Hyderabad,1365837.0
+2018,2,February,Jagtial,349576.0
+2018,2,February,Jangaon,18600.0
+2018,2,February,Jayashankar Bhoopalpally,8626250.0
+2018,2,February,Jogulamba Gadwal,481110.0
+2018,2,February,Kamareddy,44.0
+2018,2,February,Karimnagar,9330.0
+2018,2,February,Khammam,104444.0
+2018,2,February,Komaram Bheem Asifabad,2736.0
+2018,2,February,Mahabubabad,14230.0
+2018,2,February,Mahabubnagar,788083.0
+2018,2,February,Mancherial,38599.0
+2018,2,February,Medak,1000000.0
+2018,2,February,Medchal,NULL
+2018,2,February,Nagarkurnool,286258.0
+2018,2,February,Nalgonda,9971.0
+2018,2,February,Nirmal,335447.0
+2018,2,February,Nizamabad,7152.0
+2018,2,February,Peddapalli,2695.0
+2018,2,February,Rajanna Sircilla,1021787.0
+2018,2,February,Ranga Reddy,NULL
+2018,2,February,Sangareddy,540000.0
+2018,2,February,Siddipet,44000.0
+2018,2,February,Suryapet,NULL
+2018,2,February,Vikarabad,NULL
+2018,2,February,Wanaparthy,22341.0
+2018,2,February,Warangal (Rural),26300.0
+2018,2,February,Warangal (Urban),145750.0
+2018,2,February,Yadadri Bhongir,3073872.0
+2018,3,March,Adilabad,23011.0
+2018,3,March,Bhadradri Kothagudem,421275.0
+2018,3,March,Hyderabad,1415938.0
+2018,3,March,Jagtial,416716.0
+2018,3,March,Jangaon,17300.0
+2018,3,March,Jayashankar Bhoopalpally,146150.0
+2018,3,March,Jogulamba Gadwal,155013.0
+2018,3,March,Kamareddy,45.0
+2018,3,March,Karimnagar,7205.0
+2018,3,March,Khammam,127152.0
+2018,3,March,Komaram Bheem Asifabad,1826.0
+2018,3,March,Mahabubabad,13110.0
+2018,3,March,Mahabubnagar,166863.0
+2018,3,March,Mancherial,20749.0
+2018,3,March,Medak,600000.0
+2018,3,March,Medchal,NULL
+2018,3,March,Nagarkurnool,184508.0
+2018,3,March,Nalgonda,9677.0
+2018,3,March,Nirmal,328099.0
+2018,3,March,Nizamabad,2903.0
+2018,3,March,Peddapalli,2325.0
+2018,3,March,Rajanna Sircilla,1022669.0
+2018,3,March,Ranga Reddy,NULL
+2018,3,March,Sangareddy,158500.0
+2018,3,March,Siddipet,164800.0
+2018,3,March,Suryapet,NULL
+2018,3,March,Vikarabad,NULL
+2018,3,March,Wanaparthy,20050.0
+2018,3,March,Warangal (Rural),26200.0
+2018,3,March,Warangal (Urban),140300.0
+2018,3,March,Yadadri Bhongir,2836580.0
+2018,4,April,Adilabad,14183.0
+2018,4,April,Bhadradri Kothagudem,341258.0
+2018,4,April,Hyderabad,1586375.0
+2018,4,April,Jagtial,372874.0
+2018,4,April,Jangaon,18100.0
+2018,4,April,Jayashankar Bhoopalpally,149150.0
+2018,4,April,Jogulamba Gadwal,138673.0
+2018,4,April,Kamareddy,45.0
+2018,4,April,Karimnagar,5830.0
+2018,4,April,Khammam,126553.0
+2018,4,April,Komaram Bheem Asifabad,868.0
+2018,4,April,Mahabubabad,12915.0
+2018,4,April,Mahabubnagar,196061.0
+2018,4,April,Mancherial,38483.0
+2018,4,April,Medak,200000.0
+2018,4,April,Medchal,NULL
+2018,4,April,Nagarkurnool,174592.0
+2018,4,April,Nalgonda,9779.0
+2018,4,April,Nirmal,368645.0
+2018,4,April,Nizamabad,3550.0
+2018,4,April,Peddapalli,1940.0
+2018,4,April,Rajanna Sircilla,833874.0
+2018,4,April,Ranga Reddy,NULL
+2018,4,April,Sangareddy,162500.0
+2018,4,April,Siddipet,115000.0
+2018,4,April,Suryapet,NULL
+2018,4,April,Vikarabad,NULL
+2018,4,April,Wanaparthy,10550.0
+2018,4,April,Warangal (Rural),21600.0
+2018,4,April,Warangal (Urban),142510.0
+2018,4,April,Yadadri Bhongir,692370.0
+2018,5,May,Adilabad,8197.0
+2018,5,May,Bhadradri Kothagudem,291273.0
+2018,5,May,Hyderabad,1189492.0
+2018,5,May,Jagtial,641363.0
+2018,5,May,Jangaon,19660.0
+2018,5,May,Jayashankar Bhoopalpally,152050.0
+2018,5,May,Jogulamba Gadwal,131426.0
+2018,5,May,Kamareddy,49.0
+2018,5,May,Karimnagar,5689.0
+2018,5,May,Khammam,135189.0
+2018,5,May,Komaram Bheem Asifabad,793.0
+2018,5,May,Mahabubabad,12865.0
+2018,5,May,Mahabubnagar,193478.0
+2018,5,May,Mancherial,26179.0
+2018,5,May,Medak,300000.0
+2018,5,May,Medchal,NULL
+2018,5,May,Nagarkurnool,183697.0
+2018,5,May,Nalgonda,10241.0
+2018,5,May,Nirmal,342650.0
+2018,5,May,Nizamabad,5360.0
+2018,5,May,Peddapalli,1499.0
+2018,5,May,Rajanna Sircilla,1021952.0
+2018,5,May,Ranga Reddy,NULL
+2018,5,May,Sangareddy,157000.0
+2018,5,May,Siddipet,165200.0
+2018,5,May,Suryapet,NULL
+2018,5,May,Vikarabad,NULL
+2018,5,May,Wanaparthy,11502.0
+2018,5,May,Warangal (Rural),22100.0
+2018,5,May,Warangal (Urban),143425.0
+2018,5,May,Yadadri Bhongir,781842.0
+2018,6,June,Adilabad,12052.0
+2018,6,June,Bhadradri Kothagudem,290512.0
+2018,6,June,Hyderabad,1595067.0
+2018,6,June,Jagtial,182505.0
+2018,6,June,Jangaon,23050.0
+2018,6,June,Jayashankar Bhoopalpally,159400.0
+2018,6,June,Jogulamba Gadwal,160182.0
+2018,6,June,Kamareddy,56.0
+2018,6,June,Karimnagar,7180.0
+2018,6,June,Khammam,135988.0
+2018,6,June,Komaram Bheem Asifabad,990.0
+2018,6,June,Mahabubabad,13910.0
+2018,6,June,Mahabubnagar,165553.0
+2018,6,June,Mancherial,31667.0
+2018,6,June,Medak,500000.0
+2018,6,June,Medchal,NULL
+2018,6,June,Nagarkurnool,180010.0
+2018,6,June,Nalgonda,9066.0
+2018,6,June,Nirmal,355197.0
+2018,6,June,Nizamabad,1761.0
+2018,6,June,Peddapalli,1580.0
+2018,6,June,Rajanna Sircilla,320886.0
+2018,6,June,Ranga Reddy,NULL
+2018,6,June,Sangareddy,93500.0
+2018,6,June,Siddipet,104300.0
+2018,6,June,Suryapet,NULL
+2018,6,June,Vikarabad,NULL
+2018,6,June,Wanaparthy,19092.0
+2018,6,June,Warangal (Rural),23100.0
+2018,6,June,Warangal (Urban),135615.0
+2018,6,June,Yadadri Bhongir,577570.0
+2018,7,July,Adilabad,24666.0
+2018,7,July,Bhadradri Kothagudem,220304.0
+2018,7,July,Hyderabad,1470042.0
+2018,7,July,Jagtial,182473.0
+2018,7,July,Jangaon,26280.0
+2018,7,July,Jayashankar Bhoopalpally,128550.0
+2018,7,July,Jogulamba Gadwal,114951.0
+2018,7,July,Kamareddy,48.0
+2018,7,July,Karimnagar,6686.0
+2018,7,July,Khammam,85932.0
+2018,7,July,Komaram Bheem Asifabad,1954.0
+2018,7,July,Mahabubabad,13970.0
+2018,7,July,Mahabubnagar,161841.0
+2018,7,July,Mancherial,27937.0
+2018,7,July,Medak,150000.0
+2018,7,July,Medchal,NULL
+2018,7,July,Nagarkurnool,93450.0
+2018,7,July,Nalgonda,9668.0
+2018,7,July,Nirmal,335356.0
+2018,7,July,Nizamabad,5882.0
+2018,7,July,Peddapalli,1580.0
+2018,7,July,Rajanna Sircilla,937720.0
+2018,7,July,Ranga Reddy,NULL
+2018,7,July,Sangareddy,108600.0
+2018,7,July,Siddipet,54000.0
+2018,7,July,Suryapet,NULL
+2018,7,July,Vikarabad,NULL
+2018,7,July,Wanaparthy,32625.0
+2018,7,July,Warangal (Rural),25900.0
+2018,7,July,Warangal (Urban),136560.0
+2018,7,July,Yadadri Bhongir,671156.0
+2018,8,August,Adilabad,38939.0
+2018,8,August,Bhadradri Kothagudem,219548.0
+2018,8,August,Hyderabad,1591470.0
+2018,8,August,Jagtial,272685.0
+2018,8,August,Jangaon,26020.0
+2018,8,August,Jayashankar Bhoopalpally,184700.0
+2018,8,August,Jogulamba Gadwal,123733.0
+2018,8,August,Kamareddy,55.0
+2018,8,August,Karimnagar,8480.0
+2018,8,August,Khammam,86309.0
+2018,8,August,Komaram Bheem Asifabad,2263.0
+2018,8,August,Mahabubabad,13200.0
+2018,8,August,Mahabubnagar,169154.0
+2018,8,August,Mancherial,31861.0
+2018,8,August,Medak,50000.0
+2018,8,August,Medchal,NULL
+2018,8,August,Nagarkurnool,118010.0
+2018,8,August,Nalgonda,10135.0
+2018,8,August,Nirmal,313910.0
+2018,8,August,Nizamabad,10525.0
+2018,8,August,Peddapalli,1595.0
+2018,8,August,Rajanna Sircilla,320952.0
+2018,8,August,Ranga Reddy,NULL
+2018,8,August,Sangareddy,205000.0
+2018,8,August,Siddipet,100000.0
+2018,8,August,Suryapet,NULL
+2018,8,August,Vikarabad,NULL
+2018,8,August,Wanaparthy,35860.0
+2018,8,August,Warangal (Rural),25700.0
+2018,8,August,Warangal (Urban),136760.0
+2018,8,August,Yadadri Bhongir,526445.0
+2018,9,September,Adilabad,25875.0
+2018,9,September,Bhadradri Kothagudem,334878.0
+2018,9,September,Hyderabad,1508086.0
+2018,9,September,Jagtial,273121.0
+2018,9,September,Jangaon,28830.0
+2018,9,September,Jayashankar Bhoopalpally,192300.0
+2018,9,September,Jogulamba Gadwal,121710.0
+2018,9,September,Kamareddy,40.0
+2018,9,September,Karimnagar,8480.0
+2018,9,September,Khammam,143465.0
+2018,9,September,Komaram Bheem Asifabad,1819.0
+2018,9,September,Mahabubabad,13420.0
+2018,9,September,Mahabubnagar,167833.0
+2018,9,September,Mancherial,23141.0
+2018,9,September,Medak,100000.0
+2018,9,September,Medchal,NULL
+2018,9,September,Nagarkurnool,118449.0
+2018,9,September,Nalgonda,21365.0
+2018,9,September,Nirmal,293859.0
+2018,9,September,Nizamabad,475.0
+2018,9,September,Peddapalli,1475.0
+2018,9,September,Rajanna Sircilla,818693.0
+2018,9,September,Ranga Reddy,NULL
+2018,9,September,Sangareddy,125000.0
+2018,9,September,Siddipet,55000.0
+2018,9,September,Suryapet,NULL
+2018,9,September,Vikarabad,NULL
+2018,9,September,Wanaparthy,32002.0
+2018,9,September,Warangal (Rural),25800.0
+2018,9,September,Warangal (Urban),138780.0
+2018,9,September,Yadadri Bhongir,819350.0
+2018,10,October,Adilabad,30257.0
+2018,10,October,Bhadradri Kothagudem,322974.0
+2018,10,October,Hyderabad,2207478.0
+2018,10,October,Jagtial,138206.0
+2018,10,October,Jangaon,29470.0
+2018,10,October,Jayashankar Bhoopalpally,195400.0
+2018,10,October,Jogulamba Gadwal,152898.0
+2018,10,October,Kamareddy,62.0
+2018,10,October,Karimnagar,6118.0
+2018,10,October,Khammam,127645.0
+2018,10,October,Komaram Bheem Asifabad,2525.0
+2018,10,October,Mahabubabad,13550.0
+2018,10,October,Mahabubnagar,193152.0
+2018,10,October,Mancherial,30740.0
+2018,10,October,Medak,300000.0
+2018,10,October,Medchal,NULL
+2018,10,October,Nagarkurnool,201050.0
+2018,10,October,Nalgonda,22332.0
+2018,10,October,Nirmal,373291.0
+2018,10,October,Nizamabad,490.0
+2018,10,October,Peddapalli,1545.0
+2018,10,October,Rajanna Sircilla,506563.0
+2018,10,October,Ranga Reddy,NULL
+2018,10,October,Sangareddy,171800.0
+2018,10,October,Siddipet,43000.0
+2018,10,October,Suryapet,NULL
+2018,10,October,Vikarabad,NULL
+2018,10,October,Wanaparthy,21234.0
+2018,10,October,Warangal (Rural),26000.0
+2018,10,October,Warangal (Urban),140948.0
+2018,10,October,Yadadri Bhongir,586475.0
+2018,11,November,Adilabad,49181.0
+2018,11,November,Bhadradri Kothagudem,253464.0
+2018,11,November,Hyderabad,1671320.0
+2018,11,November,Jagtial,277997.0
+2018,11,November,Jangaon,29570.0
+2018,11,November,Jayashankar Bhoopalpally,196500.0
+2018,11,November,Jogulamba Gadwal,128075.0
+2018,11,November,Kamareddy,41.0
+2018,11,November,Karimnagar,7145.0
+2018,11,November,Khammam,99070.0
+2018,11,November,Komaram Bheem Asifabad,1741.0
+2018,11,November,Mahabubabad,13700.0
+2018,11,November,Mahabubnagar,295910.0
+2018,11,November,Mancherial,25197.0
+2018,11,November,Medak,200000.0
+2018,11,November,Medchal,NULL
+2018,11,November,Nagarkurnool,121452.0
+2018,11,November,Nalgonda,5422.0
+2018,11,November,Nirmal,289169.0
+2018,11,November,Nizamabad,475.0
+2018,11,November,Peddapalli,1655.0
+2018,11,November,Rajanna Sircilla,840933.0
+2018,11,November,Ranga Reddy,NULL
+2018,11,November,Sangareddy,160000.0
+2018,11,November,Siddipet,135000.0
+2018,11,November,Suryapet,NULL
+2018,11,November,Vikarabad,NULL
+2018,11,November,Wanaparthy,32657.0
+2018,11,November,Warangal (Rural),24050.0
+2018,11,November,Warangal (Urban),144515.0
+2018,11,November,Yadadri Bhongir,485208.0
+2018,12,December,Adilabad,61476.0
+2018,12,December,Bhadradri Kothagudem,442483.0
+2018,12,December,Hyderabad,1964150.0
+2018,12,December,Jagtial,231323.0
+2018,12,December,Jangaon,36962.0
+2018,12,December,Jayashankar Bhoopalpally,245625.0
+2018,12,December,Jogulamba Gadwal,182333.0
+2018,12,December,Kamareddy,43.0
+2018,12,December,Karimnagar,7800.0
+2018,12,December,Khammam,135600.0
+2018,12,December,Komaram Bheem Asifabad,2176.0
+2018,12,December,Mahabubabad,17125.0
+2018,12,December,Mahabubnagar,198227.0
+2018,12,December,Mancherial,31496.0
+2018,12,December,Medak,400000.0
+2018,12,December,Medchal,NULL
+2018,12,December,Nagarkurnool,198637.0
+2018,12,December,Nalgonda,6777.0
+2018,12,December,Nirmal,361461.0
+2018,12,December,Nizamabad,355.0
+2018,12,December,Peddapalli,1695.0
+2018,12,December,Rajanna Sircilla,950128.0
+2018,12,December,Ranga Reddy,NULL
+2018,12,December,Sangareddy,134000.0
+2018,12,December,Siddipet,50000.0
+2018,12,December,Suryapet,NULL
+2018,12,December,Vikarabad,NULL
+2018,12,December,Wanaparthy,20556.0
+2018,12,December,Warangal (Rural),30062.0
+2018,12,December,Warangal (Urban),180643.0
+2018,12,December,Yadadri Bhongir,606510.0
+2019,1,January,Adilabad,25071.0
+2019,1,January,Bhadradri Kothagudem,283365.0
+2019,1,January,Hyderabad,1426500.0
+2019,1,January,Jagtial,211913.0
+2019,1,January,Jangaon,28750.0
+2019,1,January,Jayashankar Bhoopalpally,197430.0
+2019,1,January,Jogulamba Gadwal,146441.0
+2019,1,January,Kamareddy,42.0
+2019,1,January,Karimnagar,10285.0
+2019,1,January,Khammam,123550.0
+2019,1,January,Komaram Bheem Asifabad,2476.0
+2019,1,January,Mahabubabad,13480.0
+2019,1,January,Mahabubnagar,168082.0
+2019,1,January,Mancherial,18420.0
+2019,1,January,Medak,400000.0
+2019,1,January,Medchal,NULL
+2019,1,January,Mulugu,0.0
+2019,1,January,Nagarkurnool,228812.0
+2019,1,January,Nalgonda,21284.0
+2019,1,January,Narayanapet,NULL
+2019,1,January,Nirmal,313675.0
+2019,1,January,Nizamabad,878.0
+2019,1,January,Peddapalli,1055.0
+2019,1,January,Rajanna Sircilla,6188298.0
+2019,1,January,Ranga Reddy,NULL
+2019,1,January,Sangareddy,144000.0
+2019,1,January,Siddipet,140793.0
+2019,1,January,Suryapet,NULL
+2019,1,January,Vikarabad,NULL
+2019,1,January,Wanaparthy,28131.0
+2019,1,January,Warangal (Rural),28700.0
+2019,1,January,Warangal (Urban),151545.0
+2019,1,January,Yadadri Bhongir,479293.0
+2019,2,February,Adilabad,406177.0
+2019,2,February,Bhadradri Kothagudem,229159.0
+2019,2,February,Hyderabad,983147.0
+2019,2,February,Jagtial,215105.0
+2019,2,February,Jangaon,28810.0
+2019,2,February,Jayashankar Bhoopalpally,33500.0
+2019,2,February,Jogulamba Gadwal,481110.0
+2019,2,February,Kamareddy,41.0
+2019,2,February,Karimnagar,6480.0
+2019,2,February,Khammam,98471.0
+2019,2,February,Komaram Bheem Asifabad,1449.0
+2019,2,February,Mahabubabad,13545.0
+2019,2,February,Mahabubnagar,798949.0
+2019,2,February,Mancherial,26325.0
+2019,2,February,Medak,600000.0
+2019,2,February,Medchal,NULL
+2019,2,February,Mulugu,159640.0
+2019,2,February,Nagarkurnool,286258.0
+2019,2,February,Nalgonda,13697.0
+2019,2,February,Narayanapet,NULL
+2019,2,February,Nirmal,443898.0
+2019,2,February,Nizamabad,915.0
+2019,2,February,Peddapalli,1157.0
+2019,2,February,Rajanna Sircilla,1015550.0
+2019,2,February,Ranga Reddy,NULL
+2019,2,February,Sangareddy,148000.0
+2019,2,February,Siddipet,199549.0
+2019,2,February,Suryapet,NULL
+2019,2,February,Vikarabad,NULL
+2019,2,February,Wanaparthy,22342.0
+2019,2,February,Warangal (Rural),28800.0
+2019,2,February,Warangal (Urban),157755.0
+2019,2,February,Yadadri Bhongir,56525.0
+2019,3,March,Adilabad,14347.0
+2019,3,March,Bhadradri Kothagudem,225448.0
+2019,3,March,Hyderabad,1009991.0
+2019,3,March,Jagtial,194090.0
+2019,3,March,Jangaon,27300.0
+2019,3,March,Jayashankar Bhoopalpally,37500.0
+2019,3,March,Jogulamba Gadwal,155013.0
+2019,3,March,Kamareddy,45.0
+2019,3,March,Karimnagar,6634.0
+2019,3,March,Khammam,91340.0
+2019,3,March,Komaram Bheem Asifabad,1212.0
+2019,3,March,Mahabubabad,13490.0
+2019,3,March,Mahabubnagar,173658.0
+2019,3,March,Mancherial,16253.0
+2019,3,March,Medak,1000000.0
+2019,3,March,Medchal,NULL
+2019,3,March,Mulugu,156610.0
+2019,3,March,Nagarkurnool,184508.0
+2019,3,March,Nalgonda,8467.0
+2019,3,March,Narayanapet,NULL
+2019,3,March,Nirmal,424964.0
+2019,3,March,Nizamabad,938.0
+2019,3,March,Peddapalli,895.0
+2019,3,March,Rajanna Sircilla,1444971.0
+2019,3,March,Ranga Reddy,NULL
+2019,3,March,Sangareddy,747000.0
+2019,3,March,Siddipet,204600.0
+2019,3,March,Suryapet,NULL
+2019,3,March,Vikarabad,NULL
+2019,3,March,Wanaparthy,20050.0
+2019,3,March,Warangal (Rural),29000.0
+2019,3,March,Warangal (Urban),154305.0
+2019,3,March,Yadadri Bhongir,481923.0
+2019,4,April,Adilabad,9972.0
+2019,4,April,Bhadradri Kothagudem,349585.0
+2019,4,April,Hyderabad,1045933.0
+2019,4,April,Jagtial,447226.0
+2019,4,April,Jangaon,26160.0
+2019,4,April,Jayashankar Bhoopalpally,38500.0
+2019,4,April,Jogulamba Gadwal,82334.0
+2019,4,April,Kamareddy,41.0
+2019,4,April,Karimnagar,5623.0
+2019,4,April,Khammam,135920.0
+2019,4,April,Komaram Bheem Asifabad,663.0
+2019,4,April,Mahabubabad,12980.0
+2019,4,April,Mahabubnagar,183268.0
+2019,4,April,Mancherial,23026.0
+2019,4,April,Medak,650000.0
+2019,4,April,Medchal,NULL
+2019,4,April,Mulugu,152570.0
+2019,4,April,Nagarkurnool,121460.0
+2019,4,April,Nalgonda,7202.0
+2019,4,April,Narayanapet,NULL
+2019,4,April,Nirmal,327971.0
+2019,4,April,Nizamabad,958.0
+2019,4,April,Peddapalli,942.0
+2019,4,April,Rajanna Sircilla,1148062.0
+2019,4,April,Ranga Reddy,NULL
+2019,4,April,Sangareddy,205000.0
+2019,4,April,Siddipet,184412.0
+2019,4,April,Suryapet,NULL
+2019,4,April,Vikarabad,NULL
+2019,4,April,Wanaparthy,23749.0
+2019,4,April,Warangal (Rural),26900.0
+2019,4,April,Warangal (Urban),150425.0
+2019,4,April,Yadadri Bhongir,441150.0
+2019,5,May,Adilabad,6997.0
+2019,5,May,Bhadradri Kothagudem,275800.0
+2019,5,May,Hyderabad,1305748.0
+2019,5,May,Jagtial,500206.0
+2019,5,May,Jangaon,26740.0
+2019,5,May,Jayashankar Bhoopalpally,30800.0
+2019,5,May,Jogulamba Gadwal,154609.0
+2019,5,May,Kamareddy,46.0
+2019,5,May,Karimnagar,3393.0
+2019,5,May,Khammam,130971.0
+2019,5,May,Komaram Bheem Asifabad,493.0
+2019,5,May,Mahabubabad,11970.0
+2019,5,May,Mahabubnagar,175202.0
+2019,5,May,Mancherial,26616.0
+2019,5,May,Medak,400000.0
+2019,5,May,Medchal,NULL
+2019,5,May,Mulugu,154550.0
+2019,5,May,Nagarkurnool,184372.0
+2019,5,May,Nalgonda,26338.0
+2019,5,May,Narayanapet,NULL
+2019,5,May,Nirmal,149705.0
+2019,5,May,Nizamabad,1193.0
+2019,5,May,Peddapalli,802.0
+2019,5,May,Rajanna Sircilla,1018131.0
+2019,5,May,Ranga Reddy,NULL
+2019,5,May,Sangareddy,133000.0
+2019,5,May,Siddipet,110500.0
+2019,5,May,Suryapet,NULL
+2019,5,May,Vikarabad,NULL
+2019,5,May,Wanaparthy,20010.0
+2019,5,May,Warangal (Rural),24900.0
+2019,5,May,Warangal (Urban),143230.0
+2019,5,May,Yadadri Bhongir,345790.0
+2019,6,June,Adilabad,9161.0
+2019,6,June,Bhadradri Kothagudem,9761776.0
+2019,6,June,Hyderabad,1262995.0
+2019,6,June,Jagtial,235363.0
+2019,6,June,Jangaon,25820.0
+2019,6,June,Jayashankar Bhoopalpally,40500.0
+2019,6,June,Jogulamba Gadwal,155013.0
+2019,6,June,Kamareddy,41.0
+2019,6,June,Karimnagar,3871.0
+2019,6,June,Khammam,127270.0
+2019,6,June,Komaram Bheem Asifabad,506.0
+2019,6,June,Mahabubabad,11460.0
+2019,6,June,Mahabubnagar,175853.0
+2019,6,June,Mancherial,24593.0
+2019,6,June,Medak,300000.0
+2019,6,June,Medchal,NULL
+2019,6,June,Mulugu,163480.0
+2019,6,June,Nagarkurnool,184508.0
+2019,6,June,Nalgonda,5558.0
+2019,6,June,Narayanapet,NULL
+2019,6,June,Nirmal,349747.0
+2019,6,June,Nizamabad,686.0
+2019,6,June,Peddapalli,735.0
+2019,6,June,Rajanna Sircilla,1128849.0
+2019,6,June,Ranga Reddy,NULL
+2019,6,June,Sangareddy,347000.0
+2019,6,June,Siddipet,1037000.0
+2019,6,June,Suryapet,NULL
+2019,6,June,Vikarabad,NULL
+2019,6,June,Wanaparthy,20050.0
+2019,6,June,Warangal (Rural),27100.0
+2019,6,June,Warangal (Urban),144400.0
+2019,6,June,Yadadri Bhongir,370566.0
+2019,7,July,Adilabad,11791.0
+2019,7,July,Bhadradri Kothagudem,233338.0
+2019,7,July,Hyderabad,1094861.0
+2019,7,July,Jagtial,157419.0
+2019,7,July,Jangaon,24160.0
+2019,7,July,Jayashankar Bhoopalpally,45500.0
+2019,7,July,Jogulamba Gadwal,114951.0
+2019,7,July,Kamareddy,50.0
+2019,7,July,Karimnagar,5192.0
+2019,7,July,Khammam,103260.0
+2019,7,July,Komaram Bheem Asifabad,1287.0
+2019,7,July,Mahabubabad,13470.0
+2019,7,July,Mahabubnagar,100398.0
+2019,7,July,Mancherial,22303.0
+2019,7,July,Medak,350000.0
+2019,7,July,Medchal,NULL
+2019,7,July,Mulugu,167700.0
+2019,7,July,Nagarkurnool,93450.0
+2019,7,July,Nalgonda,19783.0
+2019,7,July,Narayanapet,68842.0
+2019,7,July,Nirmal,359495.0
+2019,7,July,Nizamabad,990.0
+2019,7,July,Peddapalli,1085.0
+2019,7,July,Rajanna Sircilla,422961.0
+2019,7,July,Ranga Reddy,NULL
+2019,7,July,Sangareddy,467000.0
+2019,7,July,Siddipet,179320.0
+2019,7,July,Suryapet,NULL
+2019,7,July,Vikarabad,NULL
+2019,7,July,Wanaparthy,32625.0
+2019,7,July,Warangal (Rural),28600.0
+2019,7,July,Warangal (Urban),145440.0
+2019,7,July,Yadadri Bhongir,332770.0
+2019,8,August,Adilabad,108173.0
+2019,8,August,Bhadradri Kothagudem,271941.0
+2019,8,August,Hyderabad,1121380.0
+2019,8,August,Jagtial,151570.0
+2019,8,August,Jangaon,27800.0
+2019,8,August,Jayashankar Bhoopalpally,45000.0
+2019,8,August,Jogulamba Gadwal,123733.0
+2019,8,August,Kamareddy,50.0
+2019,8,August,Karimnagar,5480.0
+2019,8,August,Khammam,111374.0
+2019,8,August,Komaram Bheem Asifabad,2572.0
+2019,8,August,Mahabubabad,12190.0
+2019,8,August,Mahabubnagar,104787.0
+2019,8,August,Mancherial,21191.0
+2019,8,August,Medak,349900.0
+2019,8,August,Medchal,NULL
+2019,8,August,Mulugu,171050.0
+2019,8,August,Nagarkurnool,118010.0
+2019,8,August,Nalgonda,7473.0
+2019,8,August,Narayanapet,72249.0
+2019,8,August,Nirmal,334646.0
+2019,8,August,Nizamabad,1004.0
+2019,8,August,Peddapalli,1505.0
+2019,8,August,Rajanna Sircilla,586118.0
+2019,8,August,Ranga Reddy,NULL
+2019,8,August,Sangareddy,466150.0
+2019,8,August,Siddipet,190750.0
+2019,8,August,Suryapet,NULL
+2019,8,August,Vikarabad,NULL
+2019,8,August,Wanaparthy,35860.0
+2019,8,August,Warangal (Rural),31600.0
+2019,8,August,Warangal (Urban),148030.0
+2019,8,August,Yadadri Bhongir,389010.0
+2019,9,September,Adilabad,37589.0
+2019,9,September,Bhadradri Kothagudem,314199.0
+2019,9,September,Hyderabad,959930.0
+2019,9,September,Jagtial,157564.0
+2019,9,September,Jangaon,28640.0
+2019,9,September,Jayashankar Bhoopalpally,50500.0
+2019,9,September,Jogulamba Gadwal,131485.0
+2019,9,September,Kamareddy,41.0
+2019,9,September,Karimnagar,8735.0
+2019,9,September,Khammam,133754.0
+2019,9,September,Komaram Bheem Asifabad,1629.0
+2019,9,September,Mahabubabad,13210.0
+2019,9,September,Mahabubnagar,141387.0
+2019,9,September,Mancherial,24079.0
+2019,9,September,Medak,350400.0
+2019,9,September,Medchal,NULL
+2019,9,September,Mulugu,172900.0
+2019,9,September,Nagarkurnool,175712.0
+2019,9,September,Nalgonda,5230.0
+2019,9,September,Narayanapet,62841.0
+2019,9,September,Nirmal,299827.0
+2019,9,September,Nizamabad,6572.0
+2019,9,September,Peddapalli,1785.0
+2019,9,September,Rajanna Sircilla,501293.0
+2019,9,September,Ranga Reddy,NULL
+2019,9,September,Sangareddy,468350.0
+2019,9,September,Siddipet,122550.0
+2019,9,September,Suryapet,NULL
+2019,9,September,Vikarabad,NULL
+2019,9,September,Wanaparthy,21375.0
+2019,9,September,Warangal (Rural),32600.0
+2019,9,September,Warangal (Urban),151070.0
+2019,9,September,Yadadri Bhongir,366862.0
+2019,10,October,Adilabad,38184.0
+2019,10,October,Bhadradri Kothagudem,287432.0
+2019,10,October,Hyderabad,1240643.0
+2019,10,October,Jagtial,165070.0
+2019,10,October,Jangaon,27840.0
+2019,10,October,Jayashankar Bhoopalpally,46000.0
+2019,10,October,Jogulamba Gadwal,152898.0
+2019,10,October,Kamareddy,46.0
+2019,10,October,Karimnagar,6799.0
+2019,10,October,Khammam,128625.0
+2019,10,October,Komaram Bheem Asifabad,1943.0
+2019,10,October,Mahabubabad,12260.0
+2019,10,October,Mahabubnagar,130227.0
+2019,10,October,Mancherial,20867.0
+2019,10,October,Medak,350000.0
+2019,10,October,Medchal,NULL
+2019,10,October,Mulugu,172500.0
+2019,10,October,Nagarkurnool,196160.0
+2019,10,October,Nalgonda,5290.0
+2019,10,October,Narayanapet,58213.0
+2019,10,October,Nirmal,263412.0
+2019,10,October,Nizamabad,8849.0
+2019,10,October,Peddapalli,2080.0
+2019,10,October,Rajanna Sircilla,646492.0
+2019,10,October,Ranga Reddy,NULL
+2019,10,October,Sangareddy,467470.0
+2019,10,October,Siddipet,191330.0
+2019,10,October,Suryapet,NULL
+2019,10,October,Vikarabad,NULL
+2019,10,October,Wanaparthy,21234.0
+2019,10,October,Warangal (Rural),31100.0
+2019,10,October,Warangal (Urban),147450.0
+2019,10,October,Yadadri Bhongir,381860.0
+2019,11,November,Adilabad,70344.0
+2019,11,November,Bhadradri Kothagudem,298366.0
+2019,11,November,Hyderabad,1073665.0
+2019,11,November,Jagtial,277630.0
+2019,11,November,Jangaon,28410.0
+2019,11,November,Jayashankar Bhoopalpally,51500.0
+2019,11,November,Jogulamba Gadwal,128075.0
+2019,11,November,Kamareddy,46.0
+2019,11,November,Karimnagar,7101.0
+2019,11,November,Khammam,104380.0
+2019,11,November,Komaram Bheem Asifabad,2176.0
+2019,11,November,Mahabubabad,12470.0
+2019,11,November,Mahabubnagar,234066.0
+2019,11,November,Mancherial,29302.0
+2019,11,November,Medak,351560.0
+2019,11,November,Medchal,NULL
+2019,11,November,Mulugu,173700.0
+2019,11,November,Nagarkurnool,121425.0
+2019,11,November,Nalgonda,7177.0
+2019,11,November,Narayanapet,62750.0
+2019,11,November,Nirmal,253388.0
+2019,11,November,Nizamabad,11950.0
+2019,11,November,Peddapalli,2225.0
+2019,11,November,Rajanna Sircilla,1259371.0
+2019,11,November,Ranga Reddy,NULL
+2019,11,November,Sangareddy,481720.0
+2019,11,November,Siddipet,209130.0
+2019,11,November,Suryapet,NULL
+2019,11,November,Vikarabad,NULL
+2019,11,November,Wanaparthy,32657.0
+2019,11,November,Warangal (Rural),32150.0
+2019,11,November,Warangal (Urban),153880.0
+2019,11,November,Yadadri Bhongir,365990.0
+2019,12,December,Adilabad,38089.0
+2019,12,December,Bhadradri Kothagudem,287328.0
+2019,12,December,Hyderabad,1277569.0
+2019,12,December,Jagtial,372959.0
+2019,12,December,Jangaon,28460.0
+2019,12,December,Jayashankar Bhoopalpally,45800.0
+2019,12,December,Jogulamba Gadwal,182333.0
+2019,12,December,Kamareddy,45.0
+2019,12,December,Karimnagar,7898.0
+2019,12,December,Khammam,124525.0
+2019,12,December,Komaram Bheem Asifabad,2783.0
+2019,12,December,Mahabubabad,12360.0
+2019,12,December,Mahabubnagar,148938.0
+2019,12,December,Mancherial,16835.0
+2019,12,December,Medak,350710.0
+2019,12,December,Medchal,NULL
+2019,12,December,Mulugu,175100.0
+2019,12,December,Nagarkurnool,198637.0
+2019,12,December,Nalgonda,13419.0
+2019,12,December,Narayanapet,64355.0
+2019,12,December,Nirmal,296050.0
+2019,12,December,Nizamabad,11400.0
+2019,12,December,Peddapalli,2315.0
+2019,12,December,Rajanna Sircilla,1472801.0
+2019,12,December,Ranga Reddy,NULL
+2019,12,December,Sangareddy,478470.0
+2019,12,December,Siddipet,217930.0
+2019,12,December,Suryapet,NULL
+2019,12,December,Vikarabad,NULL
+2019,12,December,Wanaparthy,20556.0
+2019,12,December,Warangal (Rural),32050.0
+2019,12,December,Warangal (Urban),147700.0
+2019,12,December,Yadadri Bhongir,477635.0
+2020,1,January,Adilabad,621850.0
+2020,1,January,Bhadradri Kothagudem,269310.0
+2020,1,January,Hyderabad,1157153.0
+2020,1,January,Jagtial,340174.0
+2020,1,January,Jangaon,28150.0
+2020,1,January,Jayashankar Bhoopalpally,50500.0
+2020,1,January,Jogulamba Gadwal,146441.0
+2020,1,January,Kamareddy,45.0
+2020,1,January,Karimnagar,12057.0
+2020,1,January,Khammam,114752.0
+2020,1,January,Komaram Bheem Asifabad,2463.0
+2020,1,January,Mahabubabad,12290.0
+2020,1,January,Mahabubnagar,122530.0
+2020,1,January,Mancherial,25661.0
+2020,1,January,Medak,286340.0
+2020,1,January,Medchal,NULL
+2020,1,January,Mulugu,3653000.0
+2020,1,January,Nagarkurnool,228812.0
+2020,1,January,Nalgonda,10127.0
+2020,1,January,Narayanapet,47272.0
+2020,1,January,Nirmal,368292.0
+2020,1,January,Nizamabad,7540.0
+2020,1,January,Peddapalli,2945.0
+2020,1,January,Rajanna Sircilla,2298291.0
+2020,1,January,Ranga Reddy,NULL
+2020,1,January,Sangareddy,213000.0
+2020,1,January,Siddipet,473350.0
+2020,1,January,Suryapet,NULL
+2020,1,January,Vikarabad,NULL
+2020,1,January,Wanaparthy,28131.0
+2020,1,January,Warangal (Rural),31550.0
+2020,1,January,Warangal (Urban),157630.0
+2020,1,January,Yadadri Bhongir,493002.0
+2020,2,February,Adilabad,29421.0
+2020,2,February,Bhadradri Kothagudem,238140.0
+2020,2,February,Hyderabad,868641.0
+2020,2,February,Jagtial,186484.0
+2020,2,February,Jangaon,26390.0
+2020,2,February,Jayashankar Bhoopalpally,59000.0
+2020,2,February,Jogulamba Gadwal,481110.0
+2020,2,February,Kamareddy,42.0
+2020,2,February,Karimnagar,8359.0
+2020,2,February,Khammam,114417.0
+2020,2,February,Komaram Bheem Asifabad,1593.0
+2020,2,February,Mahabubabad,12180.0
+2020,2,February,Mahabubnagar,552303.0
+2020,2,February,Mancherial,41809.0
+2020,2,February,Medak,818750.0
+2020,2,February,Medchal,NULL
+2020,2,February,Mulugu,9157200.0
+2020,2,February,Nagarkurnool,286258.0
+2020,2,February,Nalgonda,9154.0
+2020,2,February,Narayanapet,244657.0
+2020,2,February,Nirmal,299646.0
+2020,2,February,Nizamabad,6400.0
+2020,2,February,Peddapalli,2315.0
+2020,2,February,Rajanna Sircilla,963871.0
+2020,2,February,Ranga Reddy,NULL
+2020,2,February,Sangareddy,755000.0
+2020,2,February,Siddipet,204885.0
+2020,2,February,Suryapet,NULL
+2020,2,February,Vikarabad,NULL
+2020,2,February,Wanaparthy,22342.0
+2020,2,February,Warangal (Rural),31050.0
+2020,2,February,Warangal (Urban),157950.0
+2020,2,February,Yadadri Bhongir,527311.0
+2020,3,March,Adilabad,9430.0
+2020,3,March,Bhadradri Kothagudem,79871.0
+2020,3,March,Hyderabad,321650.0
+2020,3,March,Jagtial,347014.0
+2020,3,March,Jangaon,21430.0
+2020,3,March,Jayashankar Bhoopalpally,34200.0
+2020,3,March,Jogulamba Gadwal,24013.0
+2020,3,March,Kamareddy,30.0
+2020,3,March,Karimnagar,6100.0
+2020,3,March,Khammam,57137.0
+2020,3,March,Komaram Bheem Asifabad,812.0
+2020,3,March,Mahabubabad,8300.0
+2020,3,March,Mahabubnagar,25577.0
+2020,3,March,Mancherial,9855.0
+2020,3,March,Medak,288800.0
+2020,3,March,Medchal,NULL
+2020,3,March,Mulugu,118500.0
+2020,3,March,Nagarkurnool,32333.0
+2020,3,March,Nalgonda,772.0
+2020,3,March,Narayanapet,21907.0
+2020,3,March,Nirmal,253116.0
+2020,3,March,Nizamabad,6750.0
+2020,3,March,Peddapalli,1450.0
+2020,3,March,Rajanna Sircilla,885559.0
+2020,3,March,Ranga Reddy,NULL
+2020,3,March,Sangareddy,235000.0
+2020,3,March,Siddipet,123000.0
+2020,3,March,Suryapet,NULL
+2020,3,March,Vikarabad,NULL
+2020,3,March,Wanaparthy,7050.0
+2020,3,March,Warangal (Rural),26050.0
+2020,3,March,Warangal (Urban),102520.0
+2020,3,March,Yadadri Bhongir,125380.0
+2020,4,April,Adilabad,NULL
+2020,4,April,Bhadradri Kothagudem,NULL
+2020,4,April,Hyderabad,NULL
+2020,4,April,Jagtial,NULL
+2020,4,April,Jangaon,NULL
+2020,4,April,Jayashankar Bhoopalpally,NULL
+2020,4,April,Jogulamba Gadwal,NULL
+2020,4,April,Kamareddy,NULL
+2020,4,April,Karimnagar,NULL
+2020,4,April,Khammam,NULL
+2020,4,April,Komaram Bheem Asifabad,NULL
+2020,4,April,Mahabubabad,NULL
+2020,4,April,Mahabubnagar,NULL
+2020,4,April,Mancherial,NULL
+2020,4,April,Medak,NULL
+2020,4,April,Medchal,NULL
+2020,4,April,Mulugu,NULL
+2020,4,April,Nagarkurnool,NULL
+2020,4,April,Nalgonda,NULL
+2020,4,April,Narayanapet,NULL
+2020,4,April,Nirmal,NULL
+2020,4,April,Nizamabad,NULL
+2020,4,April,Peddapalli,NULL
+2020,4,April,Rajanna Sircilla,NULL
+2020,4,April,Ranga Reddy,NULL
+2020,4,April,Sangareddy,NULL
+2020,4,April,Siddipet,NULL
+2020,4,April,Suryapet,NULL
+2020,4,April,Vikarabad,NULL
+2020,4,April,Wanaparthy,NULL
+2020,4,April,Warangal (Rural),NULL
+2020,4,April,Warangal (Urban),NULL
+2020,4,April,Yadadri Bhongir,NULL
+2020,5,May,Adilabad,NULL
+2020,5,May,Bhadradri Kothagudem,NULL
+2020,5,May,Hyderabad,NULL
+2020,5,May,Jagtial,NULL
+2020,5,May,Jangaon,NULL
+2020,5,May,Jayashankar Bhoopalpally,NULL
+2020,5,May,Jogulamba Gadwal,NULL
+2020,5,May,Kamareddy,NULL
+2020,5,May,Karimnagar,NULL
+2020,5,May,Khammam,NULL
+2020,5,May,Komaram Bheem Asifabad,NULL
+2020,5,May,Mahabubabad,NULL
+2020,5,May,Mahabubnagar,NULL
+2020,5,May,Mancherial,NULL
+2020,5,May,Medak,NULL
+2020,5,May,Medchal,NULL
+2020,5,May,Mulugu,NULL
+2020,5,May,Nagarkurnool,NULL
+2020,5,May,Nalgonda,NULL
+2020,5,May,Narayanapet,NULL
+2020,5,May,Nirmal,NULL
+2020,5,May,Nizamabad,NULL
+2020,5,May,Peddapalli,NULL
+2020,5,May,Rajanna Sircilla,NULL
+2020,5,May,Ranga Reddy,NULL
+2020,5,May,Sangareddy,NULL
+2020,5,May,Siddipet,NULL
+2020,5,May,Suryapet,NULL
+2020,5,May,Vikarabad,NULL
+2020,5,May,Wanaparthy,NULL
+2020,5,May,Warangal (Rural),NULL
+2020,5,May,Warangal (Urban),NULL
+2020,5,May,Yadadri Bhongir,NULL
+2020,6,June,Adilabad,1909.0
+2020,6,June,Bhadradri Kothagudem,15399.0
+2020,6,June,Hyderabad,NULL
+2020,6,June,Jagtial,14228.0
+2020,6,June,Jangaon,NULL
+2020,6,June,Jayashankar Bhoopalpally,NULL
+2020,6,June,Jogulamba Gadwal,26013.0
+2020,6,June,Kamareddy,NULL
+2020,6,June,Karimnagar,540.0
+2020,6,June,Khammam,12806.0
+2020,6,June,Komaram Bheem Asifabad,60.0
+2020,6,June,Mahabubabad,NULL
+2020,6,June,Mahabubnagar,20956.0
+2020,6,June,Mancherial,210.0
+2020,6,June,Medak,5300.0
+2020,6,June,Medchal,NULL
+2020,6,June,Mulugu,NULL
+2020,6,June,Nagarkurnool,34508.0
+2020,6,June,Nalgonda,218.0
+2020,6,June,Narayanapet,20907.0
+2020,6,June,Nirmal,5040.0
+2020,6,June,Nizamabad,NULL
+2020,6,June,Peddapalli,445.0
+2020,6,June,Rajanna Sircilla,76026.0
+2020,6,June,Ranga Reddy,NULL
+2020,6,June,Sangareddy,9500.0
+2020,6,June,Siddipet,19846.0
+2020,6,June,Suryapet,NULL
+2020,6,June,Vikarabad,NULL
+2020,6,June,Wanaparthy,4050.0
+2020,6,June,Warangal (Rural),NULL
+2020,6,June,Warangal (Urban),NULL
+2020,6,June,Yadadri Bhongir,76480.0
+2020,7,July,Adilabad,549.0
+2020,7,July,Bhadradri Kothagudem,15130.0
+2020,7,July,Hyderabad,NULL
+2020,7,July,Jagtial,41752.0
+2020,7,July,Jangaon,2600.0
+2020,7,July,Jayashankar Bhoopalpally,5600.0
+2020,7,July,Jogulamba Gadwal,88182.0
+2020,7,July,Kamareddy,38.0
+2020,7,July,Karimnagar,850.0
+2020,7,July,Khammam,9104.0
+2020,7,July,Komaram Bheem Asifabad,56.0
+2020,7,July,Mahabubabad,1400.0
+2020,7,July,Mahabubnagar,60255.0
+2020,7,July,Mancherial,290.0
+2020,7,July,Medak,4325.0
+2020,7,July,Medchal,NULL
+2020,7,July,Mulugu,4550.0
+2020,7,July,Nagarkurnool,66655.0
+2020,7,July,Nalgonda,224.0
+2020,7,July,Narayanapet,39820.0
+2020,7,July,Nirmal,9212.0
+2020,7,July,Nizamabad,1620.0
+2020,7,July,Peddapalli,250.0
+2020,7,July,Rajanna Sircilla,60636.0
+2020,7,July,Ranga Reddy,NULL
+2020,7,July,Sangareddy,27400.0
+2020,7,July,Siddipet,23864.0
+2020,7,July,Suryapet,NULL
+2020,7,July,Vikarabad,NULL
+2020,7,July,Wanaparthy,17092.0
+2020,7,July,Warangal (Rural),560.0
+2020,7,July,Warangal (Urban),7300.0
+2020,7,July,Yadadri Bhongir,25375.0
+2020,8,August,Adilabad,654.0
+2020,8,August,Bhadradri Kothagudem,26350.0
+2020,8,August,Hyderabad,NULL
+2020,8,August,Jagtial,34496.0
+2020,8,August,Jangaon,2750.0
+2020,8,August,Jayashankar Bhoopalpally,7000.0
+2020,8,August,Jogulamba Gadwal,106925.0
+2020,8,August,Kamareddy,42.0
+2020,8,August,Karimnagar,2500.0
+2020,8,August,Khammam,7942.0
+2020,8,August,Komaram Bheem Asifabad,55.0
+2020,8,August,Mahabubabad,1800.0
+2020,8,August,Mahabubnagar,73928.0
+2020,8,August,Mancherial,302.0
+2020,8,August,Medak,15380.0
+2020,8,August,Medchal,NULL
+2020,8,August,Mulugu,8300.0
+2020,8,August,Nagarkurnool,80155.0
+2020,8,August,Nalgonda,558.0
+2020,8,August,Narayanapet,34777.0
+2020,8,August,Nirmal,10336.0
+2020,8,August,Nizamabad,2020.0
+2020,8,August,Peddapalli,1250.0
+2020,8,August,Rajanna Sircilla,110783.0
+2020,8,August,Ranga Reddy,NULL
+2020,8,August,Sangareddy,45400.0
+2020,8,August,Siddipet,27307.0
+2020,8,August,Suryapet,NULL
+2020,8,August,Vikarabad,NULL
+2020,8,August,Wanaparthy,30860.0
+2020,8,August,Warangal (Rural),870.0
+2020,8,August,Warangal (Urban),9150.0
+2020,8,August,Yadadri Bhongir,110587.0
+2020,9,September,Adilabad,3978.0
+2020,9,September,Bhadradri Kothagudem,30957.0
+2020,9,September,Hyderabad,21861.0
+2020,9,September,Jagtial,83012.0
+2020,9,September,Jangaon,2700.0
+2020,9,September,Jayashankar Bhoopalpally,7600.0
+2020,9,September,Jogulamba Gadwal,131485.0
+2020,9,September,Kamareddy,55.0
+2020,9,September,Karimnagar,2250.0
+2020,9,September,Khammam,9078.0
+2020,9,September,Komaram Bheem Asifabad,165.0
+2020,9,September,Mahabubabad,1950.0
+2020,9,September,Mahabubnagar,135984.0
+2020,9,September,Mancherial,2758.0
+2020,9,September,Medak,15880.0
+2020,9,September,Medchal,NULL
+2020,9,September,Mulugu,11300.0
+2020,9,September,Nagarkurnool,175712.0
+2020,9,September,Nalgonda,2480.0
+2020,9,September,Narayanapet,62841.0
+2020,9,September,Nirmal,13377.0
+2020,9,September,Nizamabad,10050.0
+2020,9,September,Peddapalli,800.0
+2020,9,September,Rajanna Sircilla,121976.0
+2020,9,September,Ranga Reddy,NULL
+2020,9,September,Sangareddy,47900.0
+2020,9,September,Siddipet,30980.0
+2020,9,September,Suryapet,NULL
+2020,9,September,Vikarabad,NULL
+2020,9,September,Wanaparthy,21375.0
+2020,9,September,Warangal (Rural),1550.0
+2020,9,September,Warangal (Urban),12050.0
+2020,9,September,Yadadri Bhongir,110595.0
+2020,10,October,Adilabad,15128.0
+2020,10,October,Bhadradri Kothagudem,49203.0
+2020,10,October,Hyderabad,167510.0
+2020,10,October,Jagtial,83004.0
+2020,10,October,Jangaon,3050.0
+2020,10,October,Jayashankar Bhoopalpally,8000.0
+2020,10,October,Jogulamba Gadwal,116753.0
+2020,10,October,Kamareddy,39.0
+2020,10,October,Karimnagar,3258.0
+2020,10,October,Khammam,27858.0
+2020,10,October,Komaram Bheem Asifabad,533.0
+2020,10,October,Mahabubabad,2200.0
+2020,10,October,Mahabubnagar,94083.0
+2020,10,October,Mancherial,4745.0
+2020,10,October,Medak,17380.0
+2020,10,October,Medchal,NULL
+2020,10,October,Mulugu,17600.0
+2020,10,October,Nagarkurnool,95788.0
+2020,10,October,Nalgonda,8541.0
+2020,10,October,Narayanapet,52309.0
+2020,10,October,Nirmal,28586.0
+2020,10,October,Nizamabad,6310.0
+2020,10,October,Peddapalli,600.0
+2020,10,October,Rajanna Sircilla,181929.0
+2020,10,October,Ranga Reddy,NULL
+2020,10,October,Sangareddy,55400.0
+2020,10,October,Siddipet,73367.0
+2020,10,October,Suryapet,NULL
+2020,10,October,Vikarabad,NULL
+2020,10,October,Wanaparthy,29683.0
+2020,10,October,Warangal (Rural),2060.0
+2020,10,October,Warangal (Urban),18350.0
+2020,10,October,Yadadri Bhongir,481320.0
+2020,11,November,Adilabad,27525.0
+2020,11,November,Bhadradri Kothagudem,76900.0
+2020,11,November,Hyderabad,272276.0
+2020,11,November,Jagtial,154438.0
+2020,11,November,Jangaon,12070.0
+2020,11,November,Jayashankar Bhoopalpally,15000.0
+2020,11,November,Jogulamba Gadwal,228325.0
+2020,11,November,Kamareddy,46.0
+2020,11,November,Karimnagar,4100.0
+2020,11,November,Khammam,40647.0
+2020,11,November,Komaram Bheem Asifabad,637.0
+2020,11,November,Mahabubabad,3450.0
+2020,11,November,Mahabubnagar,98683.0
+2020,11,November,Mancherial,6717.0
+2020,11,November,Medak,45000.0
+2020,11,November,Medchal,NULL
+2020,11,November,Mulugu,57200.0
+2020,11,November,Nagarkurnool,77869.0
+2020,11,November,Nalgonda,6242.0
+2020,11,November,Narayanapet,49597.0
+2020,11,November,Nirmal,73126.0
+2020,11,November,Nizamabad,10900.0
+2020,11,November,Peddapalli,650.0
+2020,11,November,Rajanna Sircilla,391170.0
+2020,11,November,Ranga Reddy,NULL
+2020,11,November,Sangareddy,149000.0
+2020,11,November,Siddipet,72049.0
+2020,11,November,Suryapet,NULL
+2020,11,November,Vikarabad,NULL
+2020,11,November,Wanaparthy,29036.0
+2020,11,November,Warangal (Rural),7550.0
+2020,11,November,Warangal (Urban),91120.0
+2020,11,November,Yadadri Bhongir,381150.0
+2020,12,December,Adilabad,61403.0
+2020,12,December,Bhadradri Kothagudem,80842.0
+2020,12,December,Hyderabad,442895.0
+2020,12,December,Jagtial,155757.0
+2020,12,December,Jangaon,11860.0
+2020,12,December,Jayashankar Bhoopalpally,15200.0
+2020,12,December,Jogulamba Gadwal,184380.0
+2020,12,December,Kamareddy,48.0
+2020,12,December,Karimnagar,4200.0
+2020,12,December,Khammam,37084.0
+2020,12,December,Komaram Bheem Asifabad,649.0
+2020,12,December,Mahabubabad,3370.0
+2020,12,December,Mahabubnagar,111514.0
+2020,12,December,Mancherial,10439.0
+2020,12,December,Medak,55000.0
+2020,12,December,Medchal,NULL
+2020,12,December,Mulugu,60900.0
+2020,12,December,Nagarkurnool,85280.0
+2020,12,December,Nalgonda,8514.0
+2020,12,December,Narayanapet,56031.0
+2020,12,December,Nirmal,110808.0
+2020,12,December,Nizamabad,40400.0
+2020,12,December,Peddapalli,1105.0
+2020,12,December,Rajanna Sircilla,535298.0
+2020,12,December,Ranga Reddy,NULL
+2020,12,December,Sangareddy,167000.0
+2020,12,December,Siddipet,173000.0
+2020,12,December,Suryapet,NULL
+2020,12,December,Vikarabad,NULL
+2020,12,December,Wanaparthy,27057.0
+2020,12,December,Warangal (Rural),7530.0
+2020,12,December,Warangal (Urban),92455.0
+2020,12,December,Yadadri Bhongir,321254.0
+2021,1,January,Adilabad,18203.0
+2021,1,January,Bhadradri Kothagudem,199340.0
+2021,1,January,Hanumakonda,90800.0
+2021,1,January,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",828057.0
+2021,1,January,Jagtial,154626.0
+2021,1,January,Jangaon,11545.0
+2021,1,January,Jayashankar Bhoopalpally,15700.0
+2021,1,January,Jogulamba Gadwal,169350.0
+2021,1,January,Kamareddy,43.0
+2021,1,January,Karimnagar,5965.0
+2021,1,January,Khammam,81711.0
+2021,1,January,Komaram Bheem Asifabad,410.0
+2021,1,January,Mahabubabad,3060.0
+2021,1,January,Mahabubnagar,112443.0
+2021,1,January,Mancherial,14998.0
+2021,1,January,Medak,48000.0
+2021,1,January,Mulugu,61800.0
+2021,1,January,Nagarkurnool,88188.0
+2021,1,January,Nalgonda & Suryapet,9097.0
+2021,1,January,Narayanapet,45720.0
+2021,1,January,Nirmal,154786.0
+2021,1,January,Nizamabad,9450.0
+2021,1,January,Peddapalli,1150.0
+2021,1,January,Rajanna Sircilla,656423.0
+2021,1,January,Sangareddy,112500.0
+2021,1,January,Siddipet,173749.0
+2021,1,January,Wanaparthy,22482.0
+2021,1,January,Warangal,7450.0
+2021,1,January,Yadadri Bhongir,281131.0
+2021,2,February,Adilabad,271255.0
+2021,2,February,Bhadradri Kothagudem,163761.0
+2021,2,February,Hanumakonda,89900.0
+2021,2,February,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",657955.0
+2021,2,February,Jagtial,155602.0
+2021,2,February,Jangaon,11440.0
+2021,2,February,Jayashankar Bhoopalpally,15800.0
+2021,2,February,Jogulamba Gadwal,400254.0
+2021,2,February,Kamareddy,40.0
+2021,2,February,Karimnagar,5670.0
+2021,2,February,Khammam,59065.0
+2021,2,February,Komaram Bheem Asifabad,466.0
+2021,2,February,Mahabubabad,3155.0
+2021,2,February,Mahabubnagar,653029.0
+2021,2,February,Mancherial,12438.0
+2021,2,February,Medak,44000.0
+2021,2,February,Mulugu,62400.0
+2021,2,February,Nagarkurnool,84801.0
+2021,2,February,Nalgonda & Suryapet,6126.0
+2021,2,February,Narayanapet,34377.0
+2021,2,February,Nirmal,225686.0
+2021,2,February,Nizamabad,50500.0
+2021,2,February,Peddapalli,1245.0
+2021,2,February,Rajanna Sircilla,571526.0
+2021,2,February,Sangareddy,103200.0
+2021,2,February,Siddipet,107247.0
+2021,2,February,Wanaparthy,22524.0
+2021,2,February,Warangal,7470.0
+2021,2,February,Yadadri Bhongir,265238.0
+2021,3,March,Adilabad,15907.0
+2021,3,March,Bhadradri Kothagudem,83871.0
+2021,3,March,Hanumakonda,91970.0
+2021,3,March,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",589239.0
+2021,3,March,Jagtial,303738.0
+2021,3,March,Jangaon,11950.0
+2021,3,March,Jayashankar Bhoopalpally,16400.0
+2021,3,March,Jogulamba Gadwal,520014.0
+2021,3,March,Kamareddy,49.0
+2021,3,March,Karimnagar,6800.0
+2021,3,March,Khammam,47862.0
+2021,3,March,Komaram Bheem Asifabad,491.0
+2021,3,March,Mahabubabad,3320.0
+2021,3,March,Mahabubnagar,375235.0
+2021,3,March,Mancherial,7304.0
+2021,3,March,Medak,49000.0
+2021,3,March,Mulugu,65550.0
+2021,3,March,Nagarkurnool,82629.0
+2021,3,March,Nalgonda & Suryapet,5729.0
+2021,3,March,Narayanapet,34327.0
+2021,3,March,Nirmal,205287.0
+2021,3,March,Nizamabad,61080.0
+2021,3,March,Peddapalli,2610.0
+2021,3,March,Rajanna Sircilla,868764.0
+2021,3,March,Sangareddy,274500.0
+2021,3,March,Siddipet,70337.0
+2021,3,March,Wanaparthy,19672.0
+2021,3,March,Warangal,7500.0
+2021,3,March,Yadadri Bhongir,261920.0
+2021,4,April,Adilabad,6955.0
+2021,4,April,Bhadradri Kothagudem,38456.0
+2021,4,April,Hanumakonda,89430.0
+2021,4,April,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",216683.0
+2021,4,April,Jagtial,74401.0
+2021,4,April,Jangaon,10340.0
+2021,4,April,Jayashankar Bhoopalpally,14900.0
+2021,4,April,Jogulamba Gadwal,248566.0
+2021,4,April,Kamareddy,26.0
+2021,4,April,Karimnagar,1924.0
+2021,4,April,Khammam,30882.0
+2021,4,April,Komaram Bheem Asifabad,349.0
+2021,4,April,Mahabubabad,3240.0
+2021,4,April,Mahabubnagar,270751.0
+2021,4,April,Mancherial,6000.0
+2021,4,April,Medak,39000.0
+2021,4,April,Mulugu,65650.0
+2021,4,April,Nagarkurnool,85938.0
+2021,4,April,Nalgonda & Suryapet,1033.0
+2021,4,April,Narayanapet,24289.0
+2021,4,April,Nirmal,125395.0
+2021,4,April,Nizamabad,30430.0
+2021,4,April,Peddapalli,3405.0
+2021,4,April,Rajanna Sircilla,198252.0
+2021,4,April,Sangareddy,117300.0
+2021,4,April,Siddipet,61534.0
+2021,4,April,Wanaparthy,25212.0
+2021,4,April,Warangal,7510.0
+2021,4,April,Yadadri Bhongir,621.0
+2021,5,May,Adilabad,1191.0
+2021,5,May,Bhadradri Kothagudem,9329.0
+2021,5,May,Hanumakonda,14510.0
+2021,5,May,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",50064.0
+2021,5,May,Jagtial,2555.0
+2021,5,May,Jangaon,3275.0
+2021,5,May,Jayashankar Bhoopalpally,5600.0
+2021,5,May,Jogulamba Gadwal,990.0
+2021,5,May,Kamareddy,0.0
+2021,5,May,Karimnagar,601.0
+2021,5,May,Khammam,11240.0
+2021,5,May,Komaram Bheem Asifabad,88.0
+2021,5,May,Mahabubabad,940.0
+2021,5,May,Mahabubnagar,5264.0
+2021,5,May,Mancherial,1466.0
+2021,5,May,Medak,4000.0
+2021,5,May,Mulugu,19850.0
+2021,5,May,Nagarkurnool,900.0
+2021,5,May,Nalgonda & Suryapet,148.0
+2021,5,May,Narayanapet,328.0
+2021,5,May,Nirmal,25969.0
+2021,5,May,Nizamabad,0.0
+2021,5,May,Peddapalli,355.0
+2021,5,May,Rajanna Sircilla,23978.0
+2021,5,May,Sangareddy,15000.0
+2021,5,May,Siddipet,9000.0
+2021,5,May,Wanaparthy,295.0
+2021,5,May,Warangal,560.0
+2021,5,May,Yadadri Bhongir,275.0
+2021,6,June,Adilabad,3407.0
+2021,6,June,Bhadradri Kothagudem,20090.0
+2021,6,June,Hanumakonda,10050.0
+2021,6,June,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",205368.0
+2021,6,June,Jagtial,43196.0
+2021,6,June,Jangaon,2470.0
+2021,6,June,Jayashankar Bhoopalpally,4400.0
+2021,6,June,Jogulamba Gadwal,39894.0
+2021,6,June,Kamareddy,24.0
+2021,6,June,Karimnagar,450.0
+2021,6,June,Khammam,12443.0
+2021,6,June,Komaram Bheem Asifabad,128.0
+2021,6,June,Mahabubabad,880.0
+2021,6,June,Mahabubnagar,32923.0
+2021,6,June,Mancherial,1503.0
+2021,6,June,Medak,15000.0
+2021,6,June,Mulugu,19850.0
+2021,6,June,Nagarkurnool,31800.0
+2021,6,June,Nalgonda & Suryapet,1044.0
+2021,6,June,Narayanapet,6010.0
+2021,6,June,Nirmal,7048.0
+2021,6,June,Nizamabad,2020.0
+2021,6,June,Peddapalli,420.0
+2021,6,June,Rajanna Sircilla,125913.0
+2021,6,June,Sangareddy,26500.0
+2021,6,June,Siddipet,37700.0
+2021,6,June,Wanaparthy,600.0
+2021,6,June,Warangal,550.0
+2021,6,June,Yadadri Bhongir,153020.0
+2021,7,July,Adilabad,26885.0
+2021,7,July,Bhadradri Kothagudem,63082.0
+2021,7,July,Hanumakonda,40670.0
+2021,7,July,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",384455.0
+2021,7,July,Jagtial,187220.0
+2021,7,July,Jangaon,6580.0
+2021,7,July,Jayashankar Bhoopalpally,9000.0
+2021,7,July,Jogulamba Gadwal,278769.0
+2021,7,July,Kamareddy,41.0
+2021,7,July,Karimnagar,4750.0
+2021,7,July,Khammam,19400.0
+2021,7,July,Komaram Bheem Asifabad,154.0
+2021,7,July,Mahabubabad,1970.0
+2021,7,July,Mahabubnagar,300593.0
+2021,7,July,Mancherial,4134.0
+2021,7,July,Medak,16000.0
+2021,7,July,Mulugu,36800.0
+2021,7,July,Nagarkurnool,114690.0
+2021,7,July,Nalgonda & Suryapet,6744.0
+2021,7,July,Narayanapet,26950.0
+2021,7,July,Nirmal,125523.0
+2021,7,July,Nizamabad,14050.0
+2021,7,July,Peddapalli,550.0
+2021,7,July,Rajanna Sircilla,290935.0
+2021,7,July,Sangareddy,33000.0
+2021,7,July,Siddipet,37000.0
+2021,7,July,Wanaparthy,29300.0
+2021,7,July,Warangal,3400.0
+2021,7,July,Yadadri Bhongir,312343.0
+2021,8,August,Adilabad,25338.0
+2021,8,August,Bhadradri Kothagudem,70386.0
+2021,8,August,Hanumakonda,39220.0
+2021,8,August,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",603815.0
+2021,8,August,Jagtial,191483.0
+2021,8,August,Jangaon,7085.0
+2021,8,August,Jayashankar Bhoopalpally,10500.0
+2021,8,August,Jogulamba Gadwal,174508.0
+2021,8,August,Kamareddy,48.0
+2021,8,August,Karimnagar,6320.0
+2021,8,August,Khammam,18781.0
+2021,8,August,Komaram Bheem Asifabad,175.0
+2021,8,August,Mahabubabad,3480.0
+2021,8,August,Mahabubnagar,299804.0
+2021,8,August,Mancherial,7294.0
+2021,8,August,Medak,33500.0
+2021,8,August,Mulugu,44050.0
+2021,8,August,Nagarkurnool,123210.0
+2021,8,August,Nalgonda & Suryapet,7852.0
+2021,8,August,Narayanapet,24200.0
+2021,8,August,Nirmal,173301.0
+2021,8,August,Nizamabad,19580.0
+2021,8,August,Peddapalli,779.0
+2021,8,August,Rajanna Sircilla,518772.0
+2021,8,August,Sangareddy,64900.0
+2021,8,August,Siddipet,70000.0
+2021,8,August,Wanaparthy,33300.0
+2021,8,August,Warangal,5610.0
+2021,8,August,Yadadri Bhongir,269850.0
+2021,9,September,Adilabad,17672.0
+2021,9,September,Bhadradri Kothagudem,88451.0
+2021,9,September,Hanumakonda,42340.0
+2021,9,September,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",533745.0
+2021,9,September,Jagtial,169440.0
+2021,9,September,Jangaon,7180.0
+2021,9,September,Jayashankar Bhoopalpally,10700.0
+2021,9,September,Jogulamba Gadwal,154900.0
+2021,9,September,Kamareddy,33.0
+2021,9,September,Karimnagar,5475.0
+2021,9,September,Khammam,29256.0
+2021,9,September,Komaram Bheem Asifabad,176.0
+2021,9,September,Mahabubabad,3420.0
+2021,9,September,Mahabubnagar,250520.0
+2021,9,September,Mancherial,5668.0
+2021,9,September,Medak,15500.0
+2021,9,September,Mulugu,47055.0
+2021,9,September,Nagarkurnool,104510.0
+2021,9,September,Nalgonda & Suryapet,21650.0
+2021,9,September,Narayanapet,19500.0
+2021,9,September,Nirmal,225421.0
+2021,9,September,Nizamabad,12580.0
+2021,9,September,Peddapalli,660.0
+2021,9,September,Rajanna Sircilla,388599.0
+2021,9,September,Sangareddy,47700.0
+2021,9,September,Siddipet,59000.0
+2021,9,September,Wanaparthy,22800.0
+2021,9,September,Warangal,5610.0
+2021,9,September,Yadadri Bhongir,169532.0
+2021,10,October,Adilabad,16095.0
+2021,10,October,Bhadradri Kothagudem,104063.0
+2021,10,October,Hanumakonda,38650.0
+2021,10,October,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",743442.0
+2021,10,October,Jagtial,172570.0
+2021,10,October,Jangaon,10360.0
+2021,10,October,Jayashankar Bhoopalpally,11000.0
+2021,10,October,Jogulamba Gadwal,185052.0
+2021,10,October,Kamareddy,40.0
+2021,10,October,Karimnagar,4410.0
+2021,10,October,Khammam,36965.0
+2021,10,October,Komaram Bheem Asifabad,21030.0
+2021,10,October,Mahabubabad,3505.0
+2021,10,October,Mahabubnagar,208937.0
+2021,10,October,Mancherial,5130.0
+2021,10,October,Medak,17500.0
+2021,10,October,Mulugu,41000.0
+2021,10,October,Nagarkurnool,91559.0
+2021,10,October,Nalgonda & Suryapet,14431.0
+2021,10,October,Narayanapet,23700.0
+2021,10,October,Nirmal,265203.0
+2021,10,October,Nizamabad,13600.0
+2021,10,October,Peddapalli,650.0
+2021,10,October,Rajanna Sircilla,355757.0
+2021,10,October,Sangareddy,50000.0
+2021,10,October,Siddipet,90000.0
+2021,10,October,Wanaparthy,23700.0
+2021,10,October,Warangal,5820.0
+2021,10,October,Yadadri Bhongir,170613.0
+2021,11,November,Adilabad,73753.0
+2021,11,November,Bhadradri Kothagudem,84828.0
+2021,11,November,Hanumakonda,37910.0
+2021,11,November,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",938466.0
+2021,11,November,Jagtial,260498.0
+2021,11,November,Jangaon,6140.0
+2021,11,November,Jayashankar Bhoopalpally,10500.0
+2021,11,November,Jogulamba Gadwal,220734.0
+2021,11,November,Kamareddy,42.0
+2021,11,November,Karimnagar,3525.0
+2021,11,November,Khammam,45533.0
+2021,11,November,Komaram Bheem Asifabad,371.0
+2021,11,November,Mahabubabad,3470.0
+2021,11,November,Mahabubnagar,675277.0
+2021,11,November,Mancherial,5988.0
+2021,11,November,Medak,20000.0
+2021,11,November,Mulugu,51060.0
+2021,11,November,Nagarkurnool,117740.0
+2021,11,November,Nalgonda & Suryapet,7684.0
+2021,11,November,Narayanapet,27400.0
+2021,11,November,Nirmal,228200.0
+2021,11,November,Nizamabad,19090.0
+2021,11,November,Peddapalli,1630.0
+2021,11,November,Rajanna Sircilla,567535.0
+2021,11,November,Sangareddy,56150.0
+2021,11,November,Siddipet,93500.0
+2021,11,November,Wanaparthy,29330.0
+2021,11,November,Warangal,6230.0
+2021,11,November,Yadadri Bhongir,242245.0
+2021,12,December,Adilabad,18484.0
+2021,12,December,Bhadradri Kothagudem,105685.0
+2021,12,December,Hanumakonda,38125.0
+2021,12,December,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1042809.0
+2021,12,December,Jagtial,255232.0
+2021,12,December,Jangaon,6140.0
+2021,12,December,Jayashankar Bhoopalpally,10900.0
+2021,12,December,Jogulamba Gadwal,229051.0
+2021,12,December,Kamareddy,45.0
+2021,12,December,Karimnagar,3750.0
+2021,12,December,Khammam,53316.0
+2021,12,December,Komaram Bheem Asifabad,587.0
+2021,12,December,Mahabubabad,3480.0
+2021,12,December,Mahabubnagar,205813.0
+2021,12,December,Mancherial,9372.0
+2021,12,December,Medak,16350.0
+2021,12,December,Mulugu,45550.0
+2021,12,December,Nagarkurnool,111530.0
+2021,12,December,Nalgonda & Suryapet,12528.0
+2021,12,December,Narayanapet,24250.0
+2021,12,December,Nirmal,195660.0
+2021,12,December,Nizamabad,10120.0
+2021,12,December,Peddapalli,1840.0
+2021,12,December,Rajanna Sircilla,606628.0
+2021,12,December,Sangareddy,38750.0
+2021,12,December,Siddipet,90350.0
+2021,12,December,Wanaparthy,28100.0
+2021,12,December,Warangal,5690.0
+2021,12,December,Yadadri Bhongir,231306.0
+2022,1,January,Adilabad,28423.0
+2022,1,January,Bhadradri Kothagudem,84901.0
+2022,1,January,Hanumakonda,42135.0
+2022,1,January,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",956428.0
+2022,1,January,Jagtial,321355.0
+2022,1,January,Jangaon,6280.0
+2022,1,January,Jayashankar Bhoopalpally,11091.0
+2022,1,January,Jogulamba Gadwal,159487.0
+2022,1,January,Kamareddy,31.0
+2022,1,January,Karimnagar,5011.0
+2022,1,January,Khammam,38645.0
+2022,1,January,Komaram Bheem Asifabad,619.0
+2022,1,January,Mahabubabad,3410.0
+2022,1,January,Mahabubnagar,269141.0
+2022,1,January,Mancherial,9540.0
+2022,1,January,Medak,12232.0
+2022,1,January,Mulugu,2547050.0
+2022,1,January,Nagarkurnool,198660.0
+2022,1,January,Nalgonda & Suryapet,18165.0
+2022,1,January,Narayanapet,23800.0
+2022,1,January,Nirmal,230377.0
+2022,1,January,Nizamabad,12881.0
+2022,1,January,Peddapalli,1635.0
+2022,1,January,Rajanna Sircilla,685642.0
+2022,1,January,Sangareddy,115988.0
+2022,1,January,Siddipet,161000.0
+2022,1,January,Wanaparthy,30000.0
+2022,1,January,Warangal,5810.0
+2022,1,January,Yadadri Bhongir,550000.0
+2022,2,February,Adilabad,378787.0
+2022,2,February,Bhadradri Kothagudem,108037.0
+2022,2,February,Hanumakonda,55408.0
+2022,2,February,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",733747.0
+2022,2,February,Jagtial,221928.0
+2022,2,February,Jangaon,6610.0
+2022,2,February,Jayashankar Bhoopalpally,10939.0
+2022,2,February,Jogulamba Gadwal,192389.0
+2022,2,February,Kamareddy,41.0
+2022,2,February,Karimnagar,4564.0
+2022,2,February,Khammam,62355.0
+2022,2,February,Komaram Bheem Asifabad,679.0
+2022,2,February,Mahabubabad,3370.0
+2022,2,February,Mahabubnagar,490326.0
+2022,2,February,Mancherial,11210.0
+2022,2,February,Medak,17705.0
+2022,2,February,Mulugu,8049800.0
+2022,2,February,Nagarkurnool,128680.0
+2022,2,February,Nalgonda & Suryapet,12694.0
+2022,2,February,Narayanapet,99700.0
+2022,2,February,Nirmal,278184.0
+2022,2,February,Nizamabad,75753.0
+2022,2,February,Peddapalli,1675.0
+2022,2,February,Rajanna Sircilla,622385.0
+2022,2,February,Sangareddy,130632.0
+2022,2,February,Siddipet,222250.0
+2022,2,February,Wanaparthy,19000.0
+2022,2,February,Warangal,5543.0
+2022,2,February,Yadadri Bhongir,500000.0
+2022,3,March,Adilabad,15469.0
+2022,3,March,Bhadradri Kothagudem,177140.0
+2022,3,March,Hanumakonda,44427.0
+2022,3,March,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",818866.0
+2022,3,March,Jagtial,369104.0
+2022,3,March,Jangaon,6040.0
+2022,3,March,Jayashankar Bhoopalpally,12166.0
+2022,3,March,Jogulamba Gadwal,171090.0
+2022,3,March,Kamareddy,35.0
+2022,3,March,Karimnagar,5979.0
+2022,3,March,Khammam,42502.0
+2022,3,March,Komaram Bheem Asifabad,689.0
+2022,3,March,Mahabubabad,3380.0
+2022,3,March,Mahabubnagar,388498.0
+2022,3,March,Mancherial,10089.0
+2022,3,March,Medak,1500322.0
+2022,3,March,Mulugu,47500.0
+2022,3,March,Nagarkurnool,147400.0
+2022,3,March,Nalgonda & Suryapet,11565.0
+2022,3,March,Narayanapet,130000.0
+2022,3,March,Nirmal,334135.0
+2022,3,March,Nizamabad,106250.0
+2022,3,March,Peddapalli,478.0
+2022,3,March,Rajanna Sircilla,544400.0
+2022,3,March,Sangareddy,417000.0
+2022,3,March,Siddipet,108750.0
+2022,3,March,Wanaparthy,21000.0
+2022,3,March,Warangal,5650.0
+2022,3,March,Yadadri Bhongir,600000.0
+2022,4,April,Adilabad,10266.0
+2022,4,April,Bhadradri Kothagudem,180027.0
+2022,4,April,Hanumakonda,44010.0
+2022,4,April,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",776520.0
+2022,4,April,Jagtial,260082.0
+2022,4,April,Jangaon,6100.0
+2022,4,April,Jayashankar Bhoopalpally,12600.0
+2022,4,April,Jogulamba Gadwal,131186.0
+2022,4,April,Kamareddy,42.0
+2022,4,April,Karimnagar,2259.0
+2022,4,April,Khammam,53897.0
+2022,4,April,Komaram Bheem Asifabad,397.0
+2022,4,April,Mahabubabad,3550.0
+2022,4,April,Mahabubnagar,267529.0
+2022,4,April,Mancherial,7847.0
+2022,4,April,Medak,70295.0
+2022,4,April,Mulugu,48502.0
+2022,4,April,Nagarkurnool,188600.0
+2022,4,April,Nalgonda & Suryapet,8922.0
+2022,4,April,Narayanapet,170500.0
+2022,4,April,Nirmal,275087.0
+2022,4,April,Nizamabad,10875.0
+2022,4,April,Peddapalli,516.0
+2022,4,April,Rajanna Sircilla,472924.0
+2022,4,April,Sangareddy,72000.0
+2022,4,April,Siddipet,114311.0
+2022,4,April,Wanaparthy,22250.0
+2022,4,April,Warangal,6626.0
+2022,4,April,Yadadri Bhongir,651276.0
+2022,5,May,Adilabad,11670.0
+2022,5,May,Bhadradri Kothagudem,179018.0
+2022,5,May,Hanumakonda,44785.0
+2022,5,May,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1460904.0
+2022,5,May,Jagtial,209660.0
+2022,5,May,Jangaon,6350.0
+2022,5,May,Jayashankar Bhoopalpally,12713.0
+2022,5,May,Jogulamba Gadwal,131310.0
+2022,5,May,Kamareddy,30.0
+2022,5,May,Karimnagar,4620.0
+2022,5,May,Khammam,66404.0
+2022,5,May,Komaram Bheem Asifabad,549.0
+2022,5,May,Mahabubabad,3625.0
+2022,5,May,Mahabubnagar,230417.0
+2022,5,May,Mancherial,9538.0
+2022,5,May,Medak,80288.0
+2022,5,May,Mulugu,47342.0
+2022,5,May,Nagarkurnool,131000.0
+2022,5,May,Nalgonda & Suryapet,12508.0
+2022,5,May,Narayanapet,15600.0
+2022,5,May,Nirmal,302772.0
+2022,5,May,Nizamabad,17259.0
+2022,5,May,Peddapalli,1750.0
+2022,5,May,Rajanna Sircilla,559320.0
+2022,5,May,Sangareddy,82500.0
+2022,5,May,Siddipet,144239.0
+2022,5,May,Wanaparthy,17000.0
+2022,5,May,Warangal,6500.0
+2022,5,May,Yadadri Bhongir,801312.0
+2022,6,June,Adilabad,10704.0
+2022,6,June,Bhadradri Kothagudem,167787.0
+2022,6,June,Hanumakonda,44169.0
+2022,6,June,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1435151.0
+2022,6,June,Jagtial,197988.0
+2022,6,June,Jangaon,6180.0
+2022,6,June,Jayashankar Bhoopalpally,12792.0
+2022,6,June,Jogulamba Gadwal,98046.0
+2022,6,June,Kamareddy,32.0
+2022,6,June,Karimnagar,3175.0
+2022,6,June,Khammam,68590.0
+2022,6,June,Komaram Bheem Asifabad,684.0
+2022,6,June,Mahabubabad,3415.0
+2022,6,June,Mahabubnagar,191442.0
+2022,6,June,Mancherial,10244.0
+2022,6,June,Medak,45000.0
+2022,6,June,Mulugu,47332.0
+2022,6,June,Nagarkurnool,101350.0
+2022,6,June,Nalgonda & Suryapet,17231.0
+2022,6,June,Narayanapet,11200.0
+2022,6,June,Nirmal,389714.0
+2022,6,June,Nizamabad,16640.0
+2022,6,June,Peddapalli,620.0
+2022,6,June,Rajanna Sircilla,538663.0
+2022,6,June,Sangareddy,81000.0
+2022,6,June,Siddipet,104583.0
+2022,6,June,Wanaparthy,12200.0
+2022,6,June,Warangal,6459.0
+2022,6,June,Yadadri Bhongir,762672.0
+2022,7,July,Adilabad,16035.0
+2022,7,July,Bhadradri Kothagudem,95266.0
+2022,7,July,Hanumakonda,42452.0
+2022,7,July,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",816814.0
+2022,7,July,Jagtial,95511.0
+2022,7,July,Jangaon,5935.0
+2022,7,July,Jayashankar Bhoopalpally,13668.0
+2022,7,July,Jogulamba Gadwal,97097.0
+2022,7,July,Kamareddy,33.0
+2022,7,July,Karimnagar,5235.0
+2022,7,July,Khammam,44448.0
+2022,7,July,Komaram Bheem Asifabad,587.0
+2022,7,July,Mahabubabad,3180.0
+2022,7,July,Mahabubnagar,227062.0
+2022,7,July,Mancherial,11763.0
+2022,7,July,Medak,35488.0
+2022,7,July,Mulugu,48355.0
+2022,7,July,Nagarkurnool,116400.0
+2022,7,July,Nalgonda & Suryapet,21554.0
+2022,7,July,Narayanapet,12400.0
+2022,7,July,Nirmal,333767.0
+2022,7,July,Nizamabad,11758.0
+2022,7,July,Peddapalli,1550.0
+2022,7,July,Rajanna Sircilla,217276.0
+2022,7,July,Sangareddy,85000.0
+2022,7,July,Siddipet,59832.0
+2022,7,July,Wanaparthy,13200.0
+2022,7,July,Warangal,7285.0
+2022,7,July,Yadadri Bhongir,370064.0
+2022,8,August,Adilabad,20472.0
+2022,8,August,Bhadradri Kothagudem,76299.0
+2022,8,August,Hanumakonda,33640.0
+2022,8,August,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",933522.0
+2022,8,August,Jagtial,170922.0
+2022,8,August,Jangaon,5890.0
+2022,8,August,Jayashankar Bhoopalpally,12500.0
+2022,8,August,Jogulamba Gadwal,103708.0
+2022,8,August,Kamareddy,50.0
+2022,8,August,Karimnagar,3620.0
+2022,8,August,Khammam,27651.0
+2022,8,August,Komaram Bheem Asifabad,642.0
+2022,8,August,Mahabubabad,3270.0
+2022,8,August,Mahabubnagar,235700.0
+2022,8,August,Mancherial,10255.0
+2022,8,August,Medak,30575.0
+2022,8,August,Mulugu,50064.0
+2022,8,August,Nagarkurnool,126500.0
+2022,8,August,Nalgonda & Suryapet,30041.0
+2022,8,August,Narayanapet,11900.0
+2022,8,August,Nirmal,344930.0
+2022,8,August,Nizamabad,19056.0
+2022,8,August,Peddapalli,750.0
+2022,8,August,Rajanna Sircilla,476608.0
+2022,8,August,Sangareddy,160000.0
+2022,8,August,Siddipet,106635.0
+2022,8,August,Wanaparthy,15700.0
+2022,8,August,Warangal,15724.0
+2022,8,August,Yadadri Bhongir,597045.0
+2022,9,September,Adilabad,21352.0
+2022,9,September,Bhadradri Kothagudem,87413.0
+2022,9,September,Hanumakonda,34774.0
+2022,9,September,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1005418.0
+2022,9,September,Jagtial,97975.0
+2022,9,September,Jangaon,5875.0
+2022,9,September,Jayashankar Bhoopalpally,12414.0
+2022,9,September,Jogulamba Gadwal,102049.0
+2022,9,September,Kamareddy,50.0
+2022,9,September,Karimnagar,5095.0
+2022,9,September,Khammam,31088.0
+2022,9,September,Komaram Bheem Asifabad,813.0
+2022,9,September,Mahabubabad,3310.0
+2022,9,September,Mahabubnagar,225500.0
+2022,9,September,Mancherial,10855.0
+2022,9,September,Medak,31773.0
+2022,9,September,Mulugu,50503.0
+2022,9,September,Nagarkurnool,124000.0
+2022,9,September,Nalgonda & Suryapet,22875.0
+2022,9,September,Narayanapet,10800.0
+2022,9,September,Nirmal,318387.0
+2022,9,September,Nizamabad,16124.0
+2022,9,September,Peddapalli,765.0
+2022,9,September,Rajanna Sircilla,285048.0
+2022,9,September,Sangareddy,129000.0
+2022,9,September,Siddipet,67500.0
+2022,9,September,Wanaparthy,13000.0
+2022,9,September,Warangal,14681.0
+2022,9,September,Yadadri Bhongir,328666.0
+2022,10,October,Adilabad,22668.0
+2022,10,October,Bhadradri Kothagudem,101592.0
+2022,10,October,Hanumakonda,35347.0
+2022,10,October,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1724362.0
+2022,10,October,Jagtial,122002.0
+2022,10,October,Jangaon,5675.0
+2022,10,October,Jayashankar Bhoopalpally,12209.0
+2022,10,October,Jogulamba Gadwal,128895.0
+2022,10,October,Kamareddy,52.0
+2022,10,October,Karimnagar,5625.0
+2022,10,October,Khammam,39455.0
+2022,10,October,Komaram Bheem Asifabad,802.0
+2022,10,October,Mahabubabad,3240.0
+2022,10,October,Mahabubnagar,221400.0
+2022,10,October,Mancherial,12198.0
+2022,10,October,Medak,45262.0
+2022,10,October,Mulugu,51654.0
+2022,10,October,Nagarkurnool,136400.0
+2022,10,October,Nalgonda & Suryapet,31877.0
+2022,10,October,Narayanapet,9400.0
+2022,10,October,Nirmal,325830.0
+2022,10,October,Nizamabad,28465.0
+2022,10,October,Peddapalli,1835.0
+2022,10,October,Rajanna Sircilla,316687.0
+2022,10,October,Sangareddy,151000.0
+2022,10,October,Siddipet,78009.0
+2022,10,October,Wanaparthy,12000.0
+2022,10,October,Warangal,14476.0
+2022,10,October,Yadadri Bhongir,640912.0
+2022,11,November,Adilabad,66152.0
+2022,11,November,Bhadradri Kothagudem,85953.0
+2022,11,November,Hanumakonda,35198.0
+2022,11,November,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1289350.0
+2022,11,November,Jagtial,169844.0
+2022,11,November,Jangaon,5425.0
+2022,11,November,Jayashankar Bhoopalpally,13838.0
+2022,11,November,Jogulamba Gadwal,133993.0
+2022,11,November,Kamareddy,51.0
+2022,11,November,Karimnagar,6115.0
+2022,11,November,Khammam,42806.0
+2022,11,November,Komaram Bheem Asifabad,1031.0
+2022,11,November,Mahabubabad,3250.0
+2022,11,November,Mahabubnagar,270200.0
+2022,11,November,Mancherial,11550.0
+2022,11,November,Medak,50234.0
+2022,11,November,Mulugu,50273.0
+2022,11,November,Nagarkurnool,139250.0
+2022,11,November,Nalgonda & Suryapet,17501.0
+2022,11,November,Narayanapet,11150.0
+2022,11,November,Nirmal,408666.0
+2022,11,November,Nizamabad,43667.0
+2022,11,November,Peddapalli,2185.0
+2022,11,November,Rajanna Sircilla,390875.0
+2022,11,November,Sangareddy,180205.0
+2022,11,November,Siddipet,136709.0
+2022,11,November,Wanaparthy,12600.0
+2022,11,November,Warangal,14631.0
+2022,11,November,Yadadri Bhongir,751364.0
+2022,12,December,Adilabad,25972.0
+2022,12,December,Bhadradri Kothagudem,115658.0
+2022,12,December,Hanumakonda,36985.0
+2022,12,December,"Hyderabad, Ranga Reddy, Medchal & Vikarabad",1622676.0
+2022,12,December,Jagtial,170504.0
+2022,12,December,Jangaon,5275.0
+2022,12,December,Jayashankar Bhoopalpally,12704.0
+2022,12,December,Jogulamba Gadwal,124264.0
+2022,12,December,Kamareddy,48.0
+2022,12,December,Karimnagar,7440.0
+2022,12,December,Khammam,56856.0
+2022,12,December,Komaram Bheem Asifabad,1213.0
+2022,12,December,Mahabubabad,3180.0
+2022,12,December,Mahabubnagar,203200.0
+2022,12,December,Mancherial,12346.0
+2022,12,December,Medak,42236.0
+2022,12,December,Mulugu,49398.0
+2022,12,December,Nagarkurnool,140000.0
+2022,12,December,Nalgonda & Suryapet,20344.0
+2022,12,December,Narayanapet,15750.0
+2022,12,December,Nirmal,363179.0
+2022,12,December,Nizamabad,38483.0
+2022,12,December,Peddapalli,920.0
+2022,12,December,Rajanna Sircilla,394472.0
+2022,12,December,Sangareddy,160854.0
+2022,12,December,Siddipet,113370.0
+2022,12,December,Wanaparthy,12000.0
+2022,12,December,Warangal,14550.0
+2022,12,December,Yadadri Bhongir,1012272.0
+2023,1,January,Adilabad,405414.0
+2023,1,January,Bhadradri Kothagudem,85616.0
+2023,1,January,Hanumakonda,37595.0
+2023,1,January,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1792085.0
+2023,1,January,Jagtial,215746.0
+2023,1,January,Jangaon,5305.0
+2023,1,January,Jayashankar Bhoopalpally,13606.0
+2023,1,January,Jogulamba Gadwal,126784.0
+2023,1,January,Kamareddy,40.0
+2023,1,January,Karimnagar,6300.0
+2023,1,January,Khammam,39768.0
+2023,1,January,Komaram Bheem Asifabad,1452.0
+2023,1,January,Mahabubabad,2930.0
+2023,1,January,Mahabubnagar,220100.0
+2023,1,January,Mancherial,10278.0
+2023,1,January,Medak,100938.0
+2023,1,January,Mulugu,48377.0
+2023,1,January,Nagarkurnool,162900.0
+2023,1,January,Nalgonda & Suryapet,20347.0
+2023,1,January,Narayanapet,10450.0
+2023,1,January,Nirmal,413328.0
+2023,1,January,Nizamabad,30502.0
+2023,1,January,Peddapalli,1720.0
+2023,1,January,Rajanna Sircilla,377393.0
+2023,1,January,Sangareddy,121240.0
+2023,1,January,Siddipet,280919.0
+2023,1,January,Wanaparthy,13000.0
+2023,1,January,Warangal,14883.0
+2023,1,January,Yadadri Bhongir,555616.0
+2023,2,February,Adilabad,41462.0
+2023,2,February,Bhadradri Kothagudem,88572.0
+2023,2,February,Hanumakonda,39412.0
+2023,2,February,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1279128.0
+2023,2,February,Jagtial,213846.0
+2023,2,February,Jangaon,4995.0
+2023,2,February,Jayashankar Bhoopalpally,12799.0
+2023,2,February,Jogulamba Gadwal,151825.0
+2023,2,February,Kamareddy,45.0
+2023,2,February,Karimnagar,6000.0
+2023,2,February,Khammam,56431.0
+2023,2,February,Komaram Bheem Asifabad,1337.0
+2023,2,February,Mahabubabad,2420.0
+2023,2,February,Mahabubnagar,253100.0
+2023,2,February,Mancherial,18555.0
+2023,2,February,Medak,936994.0
+2023,2,February,Mulugu,48353.0
+2023,2,February,Nagarkurnool,162800.0
+2023,2,February,Nalgonda & Suryapet,27631.0
+2023,2,February,Narayanapet,17350.0
+2023,2,February,Nirmal,320785.0
+2023,2,February,Nizamabad,258940.0
+2023,2,February,Peddapalli,1625.0
+2023,2,February,Rajanna Sircilla,538057.0
+2023,2,February,Sangareddy,965600.0
+2023,2,February,Siddipet,96013.0
+2023,2,February,Wanaparthy,151500.0
+2023,2,February,Warangal,14938.0
+2023,2,February,Yadadri Bhongir,348130.0
+2023,3,March,Adilabad,17236.0
+2023,3,March,Bhadradri Kothagudem,236493.0
+2023,3,March,Hanumakonda,36329.0
+2023,3,March,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1134117.0
+2023,3,March,Jagtial,822553.0
+2023,3,March,Jangaon,4940.0
+2023,3,March,Jayashankar Bhoopalpally,12252.0
+2023,3,March,Jogulamba Gadwal,139689.0
+2023,3,March,Kamareddy,46.0
+2023,3,March,Karimnagar,4525.0
+2023,3,March,Khammam,61976.0
+2023,3,March,Komaram Bheem Asifabad,821.0
+2023,3,March,Mahabubabad,2475.0
+2023,3,March,Mahabubnagar,185000.0
+2023,3,March,Mancherial,10222.0
+2023,3,March,Medak,57188.0
+2023,3,March,Mulugu,48804.0
+2023,3,March,Nagarkurnool,144500.0
+2023,3,March,Nalgonda & Suryapet,13608.0
+2023,3,March,Narayanapet,12800.0
+2023,3,March,Nirmal,404555.0
+2023,3,March,Nizamabad,94964.0
+2023,3,March,Peddapalli,1510.0
+2023,3,March,Rajanna Sircilla,467996.0
+2023,3,March,Sangareddy,166000.0
+2023,3,March,Siddipet,162100.0
+2023,3,March,Wanaparthy,13500.0
+2023,3,March,Warangal,15391.0
+2023,3,March,Yadadri Bhongir,549974.0
+2023,4,April,Adilabad,12640.0
+2023,4,April,Bhadradri Kothagudem,168425.0
+2023,4,April,Hanumakonda,41475.0
+2023,4,April,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1353144.0
+2023,4,April,Jagtial,507092.0
+2023,4,April,Jangaon,4820.0
+2023,4,April,Jayashankar Bhoopalpally,15836.0
+2023,4,April,Jogulamba Gadwal,99114.0
+2023,4,April,Kamareddy,56.0
+2023,4,April,Karimnagar,4125.0
+2023,4,April,Khammam,63244.0
+2023,4,April,Komaram Bheem Asifabad,767.0
+2023,4,April,Mahabubabad,2705.0
+2023,4,April,Mahabubnagar,98800.0
+2023,4,April,Mancherial,12473.0
+2023,4,April,Medak,67225.0
+2023,4,April,Mulugu,50129.0
+2023,4,April,Nagarkurnool,76800.0
+2023,4,April,Nalgonda & Suryapet,12416.0
+2023,4,April,Narayanapet,53800.0
+2023,4,April,Nirmal,323987.0
+2023,4,April,Nizamabad,16167.0
+2023,4,April,Peddapalli,1615.0
+2023,4,April,Rajanna Sircilla,473718.0
+2023,4,April,Sangareddy,66000.0
+2023,4,April,Siddipet,150672.0
+2023,4,April,Wanaparthy,4600.0
+2023,4,April,Warangal,16545.0
+2023,4,April,Yadadri Bhongir,496474.0
+2023,5,May,Adilabad,13030.0
+2023,5,May,Bhadradri Kothagudem,171159.0
+2023,5,May,Hanumakonda,42765.0
+2023,5,May,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1788013.0
+2023,5,May,Jagtial,504073.0
+2023,5,May,Jangaon,5035.0
+2023,5,May,Jayashankar Bhoopalpally,16585.0
+2023,5,May,Jogulamba Gadwal,70093.0
+2023,5,May,Kamareddy,52.0
+2023,5,May,Karimnagar,3900.0
+2023,5,May,Khammam,61592.0
+2023,5,May,Komaram Bheem Asifabad,637.0
+2023,5,May,Mahabubabad,2660.0
+2023,5,May,Mahabubnagar,72800.0
+2023,5,May,Mancherial,10503.0
+2023,5,May,Medak,54588.0
+2023,5,May,Mulugu,51640.0
+2023,5,May,Nagarkurnool,52800.0
+2023,5,May,Nalgonda & Suryapet,14512.0
+2023,5,May,Narayanapet,4600.0
+2023,5,May,Nirmal,384755.0
+2023,5,May,Nizamabad,20511.0
+2023,5,May,Peddapalli,1290.0
+2023,5,May,Rajanna Sircilla,565654.0
+2023,5,May,Sangareddy,98500.0
+2023,5,May,Siddipet,178186.0
+2023,5,May,Wanaparthy,2600.0
+2023,5,May,Warangal,17360.0
+2023,5,May,Yadadri Bhongir,766175.0
+2023,6,June,Adilabad,10929.0
+2023,6,June,Bhadradri Kothagudem,153273.0
+2023,6,June,Hanumakonda,39677.0
+2023,6,June,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1415295.0
+2023,6,June,Jagtial,352546.0
+2023,6,June,Jangaon,4970.0
+2023,6,June,Jayashankar Bhoopalpally,13350.0
+2023,6,June,Jogulamba Gadwal,67712.0
+2023,6,June,Kamareddy,65.0
+2023,6,June,Karimnagar,3900.0
+2023,6,June,Khammam,85100.0
+2023,6,June,Komaram Bheem Asifabad,679.0
+2023,6,June,Mahabubabad,2560.0
+2023,6,June,Mahabubnagar,76500.0
+2023,6,June,Mancherial,12024.0
+2023,6,June,Medak,47671.0
+2023,6,June,Mulugu,47359.0
+2023,6,June,Nagarkurnool,50400.0
+2023,6,June,Nalgonda & Suryapet,13931.0
+2023,6,June,Narayanapet,3100.0
+2023,6,June,Nirmal,408390.0
+2023,6,June,Nizamabad,22160.0
+2023,6,June,Peddapalli,1430.0
+2023,6,June,Rajanna Sircilla,487331.0
+2023,6,June,Sangareddy,73000.0
+2023,6,June,Siddipet,150924.0
+2023,6,June,Wanaparthy,3000.0
+2023,6,June,Warangal,14399.0
+2023,6,June,Yadadri Bhongir,834264.0
+2023,7,July,Adilabad,21085.0
+2023,7,July,Bhadradri Kothagudem,118259.0
+2023,7,July,Hanumakonda,39620.0
+2023,7,July,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1209926.0
+2023,7,July,Jagtial,153545.0
+2023,7,July,Jangaon,4780.0
+2023,7,July,Jayashankar Bhoopalpally,10994.0
+2023,7,July,Jogulamba Gadwal,47076.0
+2023,7,July,Kamareddy,40.0
+2023,7,July,Karimnagar,6050.0
+2023,7,July,Khammam,73424.0
+2023,7,July,Komaram Bheem Asifabad,611.0
+2023,7,July,Mahabubabad,2230.0
+2023,7,July,Mahabubnagar,54000.0
+2023,7,July,Mancherial,13506.0
+2023,7,July,Medak,43792.0
+2023,7,July,Mulugu,61688.0
+2023,7,July,Nagarkurnool,34200.0
+2023,7,July,Nalgonda & Suryapet,14771.0
+2023,7,July,Narayanapet,1550.0
+2023,7,July,Nirmal,364326.0
+2023,7,July,Nizamabad,26051.0
+2023,7,July,Peddapalli,1040.0
+2023,7,July,Rajanna Sircilla,286185.0
+2023,7,July,Sangareddy,70000.0
+2023,7,July,Siddipet,420926.0
+2023,7,July,Wanaparthy,1700.0
+2023,7,July,Warangal,15355.0
+2023,7,July,Yadadri Bhongir,794528.0
+2023,8,August,Adilabad,32623.0
+2023,8,August,Bhadradri Kothagudem,90891.0
+2023,8,August,Hanumakonda,35084.0
+2023,8,August,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1351690.0
+2023,8,August,Jagtial,133336.0
+2023,8,August,Jangaon,5765.0
+2023,8,August,Jayashankar Bhoopalpally,14341.0
+2023,8,August,Jogulamba Gadwal,55365.0
+2023,8,August,Kamareddy,50.0
+2023,8,August,Karimnagar,4600.0
+2023,8,August,Khammam,34607.0
+2023,8,August,Komaram Bheem Asifabad,1072.0
+2023,8,August,Mahabubabad,3565.0
+2023,8,August,Mahabubnagar,57900.0
+2023,8,August,Mancherial,14433.0
+2023,8,August,Medak,35203.0
+2023,8,August,Mulugu,50448.0
+2023,8,August,Nagarkurnool,36150.0
+2023,8,August,Nalgonda & Suryapet,12769.0
+2023,8,August,Narayanapet,1730.0
+2023,8,August,Nirmal,379447.0
+2023,8,August,Nizamabad,35232.0
+2023,8,August,Peddapalli,1410.0
+2023,8,August,Rajanna Sircilla,425962.0
+2023,8,August,Sangareddy,161400.0
+2023,8,August,Siddipet,145257.0
+2023,8,August,Wanaparthy,1900.0
+2023,8,August,Warangal,16108.0
+2023,8,August,Yadadri Bhongir,822416.0
+2023,9,September,Adilabad,22961.0
+2023,9,September,Bhadradri Kothagudem,86799.0
+2023,9,September,Hanumakonda,34374.0
+2023,9,September,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1288523.0
+2023,9,September,Jagtial,82078.0
+2023,9,September,Jangaon,5410.0
+2023,9,September,Jayashankar Bhoopalpally,15010.0
+2023,9,September,Jogulamba Gadwal,38056.0
+2023,9,September,Kamareddy,43.0
+2023,9,September,Karimnagar,3396.0
+2023,9,September,Khammam,33774.0
+2023,9,September,Komaram Bheem Asifabad,1159.0
+2023,9,September,Mahabubabad,3355.0
+2023,9,September,Mahabubnagar,46000.0
+2023,9,September,Mancherial,10409.0
+2023,9,September,Medak,23004.0
+2023,9,September,Mulugu,51635.0
+2023,9,September,Nagarkurnool,25400.0
+2023,9,September,Nalgonda & Suryapet,12764.0
+2023,9,September,Narayanapet,3650.0
+2023,9,September,Nirmal,382582.0
+2023,9,September,Nizamabad,30863.0
+2023,9,September,Peddapalli,1360.0
+2023,9,September,Rajanna Sircilla,461574.0
+2023,9,September,Sangareddy,334865.0
+2023,9,September,Siddipet,164346.0
+2023,9,September,Wanaparthy,1200.0
+2023,9,September,Warangal,16548.0
+2023,9,September,Yadadri Bhongir,656397.0
+2023,10,October,Adilabad,25294.0
+2023,10,October,Bhadradri Kothagudem,129853.0
+2023,10,October,Hanumakonda,35331.0
+2023,10,October,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1916011.0
+2023,10,October,Jagtial,83261.0
+2023,10,October,Jangaon,5720.0
+2023,10,October,Jayashankar Bhoopalpally,13896.0
+2023,10,October,Jogulamba Gadwal,40746.0
+2023,10,October,Kamareddy,48.0
+2023,10,October,Karimnagar,4500.0
+2023,10,October,Khammam,64040.0
+2023,10,October,Komaram Bheem Asifabad,1367.0
+2023,10,October,Mahabubabad,2560.0
+2023,10,October,Mahabubnagar,47500.0
+2023,10,October,Mancherial,11785.0
+2023,10,October,Medak,108978.0
+2023,10,October,Mulugu,50995.0
+2023,10,October,Nagarkurnool,26200.0
+2023,10,October,Nalgonda & Suryapet,18622.0
+2023,10,October,Narayanapet,960.0
+2023,10,October,Nirmal,405646.0
+2023,10,October,Nizamabad,17749.0
+2023,10,October,Peddapalli,1495.0
+2023,10,October,Rajanna Sircilla,321294.0
+2023,10,October,Sangareddy,176166.0
+2023,10,October,Siddipet,265054.0
+2023,10,October,Wanaparthy,1400.0
+2023,10,October,Warangal,16280.0
+2023,10,October,Yadadri Bhongir,650163.0
+2023,11,November,Adilabad,29836.0
+2023,11,November,Bhadradri Kothagudem,94395.0
+2023,11,November,Hanumakonda,35790.0
+2023,11,November,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",1662165.0
+2023,11,November,Jagtial,113565.0
+2023,11,November,Jangaon,5305.0
+2023,11,November,Jayashankar Bhoopalpally,15913.0
+2023,11,November,Jogulamba Gadwal,44853.0
+2023,11,November,Kamareddy,53.0
+2023,11,November,Karimnagar,5310.0
+2023,11,November,Khammam,41086.0
+2023,11,November,Komaram Bheem Asifabad,1688.0
+2023,11,November,Mahabubabad,3875.0
+2023,11,November,Mahabubnagar,51500.0
+2023,11,November,Mancherial,11401.0
+2023,11,November,Medak,44914.0
+2023,11,November,Mulugu,52285.0
+2023,11,November,Nagarkurnool,29600.0
+2023,11,November,Nalgonda & Suryapet,18648.0
+2023,11,November,Narayanapet,1050.0
+2023,11,November,Nirmal,415121.0
+2023,11,November,Nizamabad,51367.0
+2023,11,November,Peddapalli,1630.0
+2023,11,November,Rajanna Sircilla,672994.0
+2023,11,November,Sangareddy,285725.0
+2023,11,November,Siddipet,871162.0
+2023,11,November,Wanaparthy,1600.0
+2023,11,November,Warangal,17494.0
+2023,11,November,Yadadri Bhongir,626666.0
+2023,12,December,Adilabad,50235.0
+2023,12,December,Bhadradri Kothagudem,131979.0
+2023,12,December,Hanumakonda,34552.0
+2023,12,December,"Hyderabad, Ranga Reddy, Medchal -Malkajigiri, & Vikarabad",2382597.0
+2023,12,December,Jagtial,339094.0
+2023,12,December,Jangaon,5310.0
+2023,12,December,Jayashankar Bhoopalpally,15434.0
+2023,12,December,Jogulamba Gadwal,46731.0
+2023,12,December,Kamareddy,52.0
+2023,12,December,Karimnagar,6150.0
+2023,12,December,Khammam,63412.0
+2023,12,December,Komaram Bheem Asifabad,1739.0
+2023,12,December,Mahabubabad,3460.0
+2023,12,December,Mahabubnagar,53800.0
+2023,12,December,Mancherial,12536.0
+2023,12,December,Medak,70811.0
+2023,12,December,Mulugu,71071.0
+2023,12,December,Nagarkurnool,32460.0
+2023,12,December,Nalgonda & Suryapet,271997.0
+2023,12,December,Narayanapet,1560.0
+2023,12,December,Nirmal,398336.0
+2023,12,December,Nizamabad,90230.0
+2023,12,December,Peddapalli,1155.0
+2023,12,December,Rajanna Sircilla,896048.0
+2023,12,December,Sangareddy,246834.0
+2023,12,December,Siddipet,1063109.0
+2023,12,December,Wanaparthy,1700.0
+2023,12,December,Warangal,16019.0
+2023,12,December,Yadadri Bhongir,1238000.0
+2024,1,January,Adilabad,30836.0
+2024,1,January,Bhadradri Kothagudem,85790.0
+2024,1,January,Hanumakonda,36746.0
+2024,1,January,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",2258478.0
+2024,1,January,Jagtial,246818.0
+2024,1,January,Jangaon,5760.0
+2024,1,January,Jayashankar Bhoopalpally,15958.0
+2024,1,January,Jogulamba Gadwal,48959.0
+2024,1,January,Kamareddy,60.0
+2024,1,January,Karimnagar,6600.0
+2024,1,January,Khammam,44527.0
+2024,1,January,Komaram Bheem Asifabad,1819.0
+2024,1,January,Mahabubabad,3330.0
+2024,1,January,Mahabubnagar,56000.0
+2024,1,January,Mancherial,9325.0
+2024,1,January,Medak,66944.0
+2024,1,January,Medchal -Malkajigiri,NULL
+2024,1,January,Mulugu,2048855.0
+2024,1,January,Nagarkurnool,35680.0
+2024,1,January,Nalgonda & Suryapet,386903.0
+2024,1,January,Narayanapet,1720.0
+2024,1,January,Nirmal,332447.0
+2024,1,January,Nizamabad,77470.0
+2024,1,January,Peddapalli,1515.0
+2024,1,January,Rajanna Sircilla,1548496.0
+2024,1,January,Sangareddy,202300.0
+2024,1,January,Siddipet,1275207.0
+2024,1,January,Wanaparthy,1800.0
+2024,1,January,Warangal,16069.0
+2024,1,January,Yadadri Bhongir,961000.0
+2024,2,February,Adilabad,31774.0
+2024,2,February,Bhadradri Kothagudem,98978.0
+2024,2,February,Hanumakonda,42083.0
+2024,2,February,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1304258.0
+2024,2,February,Jagtial,444619.0
+2024,2,February,Jangaon,5840.0
+2024,2,February,Jayashankar Bhoopalpally,15748.0
+2024,2,February,Jogulamba Gadwal,54979.0
+2024,2,February,Kamareddy,55.0
+2024,2,February,Karimnagar,4700.0
+2024,2,February,Khammam,57671.0
+2024,2,February,Komaram Bheem Asifabad,1452.0
+2024,2,February,Mahabubabad,3460.0
+2024,2,February,Mahabubnagar,62200.0
+2024,2,February,Mancherial,15430.0
+2024,2,February,Medak,114301.0
+2024,2,February,Medchal -Malkajigiri,NULL
+2024,2,February,Mulugu,12046024.0
+2024,2,February,Nagarkurnool,41750.0
+2024,2,February,Nalgonda & Suryapet,26031.0
+2024,2,February,Narayanapet,2000.0
+2024,2,February,Nirmal,341997.0
+2024,2,February,Nizamabad,105828.0
+2024,2,February,Peddapalli,1410.0
+2024,2,February,Rajanna Sircilla,1682264.0
+2024,2,February,Sangareddy,120137.0
+2024,2,February,Siddipet,148670.0
+2024,2,February,Wanaparthy,1600.0
+2024,2,February,Warangal,15960.0
+2024,2,February,Yadadri Bhongir,552596.0
+2024,3,March,Adilabad,10922.0
+2024,3,March,Bhadradri Kothagudem,91907.0
+2024,3,March,Hanumakonda,36336.0
+2024,3,March,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1115850.0
+2024,3,March,Jagtial,433459.0
+2024,3,March,Jangaon,5350.0
+2024,3,March,Jayashankar Bhoopalpally,15523.0
+2024,3,March,Jogulamba Gadwal,57935.0
+2024,3,March,Kamareddy,99.0
+2024,3,March,Karimnagar,5675.0
+2024,3,March,Khammam,51403.0
+2024,3,March,Komaram Bheem Asifabad,920.0
+2024,3,March,Mahabubabad,3830.0
+2024,3,March,Mahabubnagar,61100.0
+2024,3,March,Mancherial,8386.0
+2024,3,March,Medak,904902.0
+2024,3,March,Medchal -Malkajigiri,NULL
+2024,3,March,Mulugu,52425.0
+2024,3,March,Nagarkurnool,44900.0
+2024,3,March,Nalgonda & Suryapet,594366.0
+2024,3,March,Narayanapet,1690.0
+2024,3,March,Nirmal,373687.0
+2024,3,March,Nizamabad,166379.0
+2024,3,March,Peddapalli,1305.0
+2024,3,March,Rajanna Sircilla,1399404.0
+2024,3,March,Sangareddy,1032366.0
+2024,3,March,Siddipet,146250.0
+2024,3,March,Wanaparthy,1450.0
+2024,3,March,Warangal,18468.0
+2024,3,March,Yadadri Bhongir,740494.0
+2024,4,April,Adilabad,9307.0
+2024,4,April,Bhadradri Kothagudem,170644.0
+2024,4,April,Hanumakonda,35022.0
+2024,4,April,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",190162.0
+2024,4,April,Jagtial,455132.0
+2024,4,April,Jangaon,5210.0
+2024,4,April,Jayashankar Bhoopalpally,14684.0
+2024,4,April,Jogulamba Gadwal,50901.0
+2024,4,April,Kamareddy,50.0
+2024,4,April,Karimnagar,5959.0
+2024,4,April,Khammam,62601.0
+2024,4,April,Komaram Bheem Asifabad,911.0
+2024,4,April,Mahabubabad,2800.0
+2024,4,April,Mahabubnagar,57600.0
+2024,4,April,Mancherial,5159.0
+2024,4,April,Medak,32461.0
+2024,4,April,Medchal -Malkajigiri,NULL
+2024,4,April,Mulugu,48919.0
+2024,4,April,Nagarkurnool,57000.0
+2024,4,April,Nalgonda & Suryapet,144906.0
+2024,4,April,Narayanapet,11500.0
+2024,4,April,Nirmal,332088.0
+2024,4,April,Nizamabad,169469.0
+2024,4,April,Peddapalli,1370.0
+2024,4,April,Rajanna Sircilla,1469374.0
+2024,4,April,Sangareddy,130310.0
+2024,4,April,Siddipet,175117.0
+2024,4,April,Wanaparthy,1300.0
+2024,4,April,Warangal,17408.0
+2024,4,April,Yadadri Bhongir,876574.0
+2024,5,May,Adilabad,10020.0
+2024,5,May,Bhadradri Kothagudem,172982.0
+2024,5,May,Hanumakonda,32617.0
+2024,5,May,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",2353135.0
+2024,5,May,Jagtial,477887.0
+2024,5,May,Jangaon,4990.0
+2024,5,May,Jayashankar Bhoopalpally,13856.0
+2024,5,May,Jogulamba Gadwal,47951.0
+2024,5,May,Kamareddy,54.0
+2024,5,May,Karimnagar,6256.0
+2024,5,May,Khammam,65392.0
+2024,5,May,Komaram Bheem Asifabad,973.0
+2024,5,May,Mahabubabad,2755.0
+2024,5,May,Mahabubnagar,52000.0
+2024,5,May,Mancherial,6982.0
+2024,5,May,Medak,32470.0
+2024,5,May,Medchal -Malkajigiri,NULL
+2024,5,May,Mulugu,46920.0
+2024,5,May,Nagarkurnool,47000.0
+2024,5,May,Nalgonda & Suryapet,21456.0
+2024,5,May,Narayanapet,1700.0
+2024,5,May,Nirmal,381662.0
+2024,5,May,Nizamabad,77998.0
+2024,5,May,Peddapalli,1438.0
+2024,5,May,Rajanna Sircilla,1542843.0
+2024,5,May,Sangareddy,126142.0
+2024,5,May,Siddipet,152732.0
+2024,5,May,Wanaparthy,1000.0
+2024,5,May,Warangal,16323.0
+2024,5,May,Yadadri Bhongir,1817107.0
+2024,6,June,Adilabad,11832.0
+2024,6,June,Bhadradri Kothagudem,159167.0
+2024,6,June,Hanumakonda,35709.0
+2024,6,June,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1946127.0
+2024,6,June,Jagtial,502231.0
+2024,6,June,Jangaon,5200.0
+2024,6,June,Jayashankar Bhoopalpally,14878.0
+2024,6,June,Jogulamba Gadwal,42907.0
+2024,6,June,Kamareddy,47.0
+2024,6,June,Karimnagar,6569.0
+2024,6,June,Khammam,87546.0
+2024,6,June,Komaram Bheem Asifabad,1117.0
+2024,6,June,Mahabubabad,3245.0
+2024,6,June,Mahabubnagar,44520.0
+2024,6,June,Mancherial,8868.0
+2024,6,June,Medak,75807.0
+2024,6,June,Medchal -Malkajigiri,NULL
+2024,6,June,Mulugu,49617.0
+2024,6,June,Nagarkurnool,39500.0
+2024,6,June,Nalgonda & Suryapet,20238.0
+2024,6,June,Narayanapet,1300.0
+2024,6,June,Nirmal,394087.0
+2024,6,June,Nizamabad,109979.0
+2024,6,June,Peddapalli,1510.0
+2024,6,June,Rajanna Sircilla,1620264.0
+2024,6,June,Sangareddy,76632.0
+2024,6,June,Siddipet,155170.0
+2024,6,June,Wanaparthy,750.0
+2024,6,June,Warangal,17941.0
+2024,6,June,Yadadri Bhongir,1564839.0
+2024,7,July,Adilabad,30429.0
+2024,7,July,Bhadradri Kothagudem,119099.0
+2024,7,July,Hanumakonda,37695.0
+2024,7,July,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1197793.0
+2024,7,July,Jagtial,527235.0
+2024,7,July,Jangaon,4905.0
+2024,7,July,Jayashankar Bhoopalpally,14181.0
+2024,7,July,Jogulamba Gadwal,48020.0
+2024,7,July,Kamareddy,47.0
+2024,7,July,Karimnagar,6897.0
+2024,7,July,Khammam,73424.0
+2024,7,July,Komaram Bheem Asifabad,1527.0
+2024,7,July,Mahabubabad,5300.0
+2024,7,July,Mahabubnagar,50520.0
+2024,7,July,Mancherial,10708.0
+2024,7,July,Medak,46173.0
+2024,7,July,Medchal -Malkajigiri,NULL
+2024,7,July,Mulugu,52967.0
+2024,7,July,Nagarkurnool,42700.0
+2024,7,July,Nalgonda & Suryapet,19313.0
+2024,7,July,Narayanapet,1500.0
+2024,7,July,Nirmal,399061.0
+2024,7,July,Nizamabad,76142.0
+2024,7,July,Peddapalli,1585.0
+2024,7,July,Rajanna Sircilla,1701276.0
+2024,7,July,Sangareddy,78450.0
+2024,7,July,Siddipet,93419.0
+2024,7,July,Wanaparthy,200.0
+2024,7,July,Warangal,18050.0
+2024,7,July,Yadadri Bhongir,651704.0
+2024,8,August,Adilabad,41245.0
+2024,8,August,Bhadradri Kothagudem,95462.0
+2024,8,August,Hanumakonda,38753.0
+2024,8,August,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1445835.0
+2024,8,August,Jagtial,553760.0
+2024,8,August,Jangaon,5010.0
+2024,8,August,Jayashankar Bhoopalpally,13882.0
+2024,8,August,Jogulamba Gadwal,53954.0
+2024,8,August,Kamareddy,58.0
+2024,8,August,Karimnagar,7242.0
+2024,8,August,Khammam,50150.0
+2024,8,August,Komaram Bheem Asifabad,2107.0
+2024,8,August,Mahabubabad,6330.0
+2024,8,August,Mahabubnagar,54500.0
+2024,8,August,Mancherial,7956.0
+2024,8,August,Medak,38786.0
+2024,8,August,Medchal -Malkajigiri,NULL
+2024,8,August,Mulugu,57251.0
+2024,8,August,Nagarkurnool,43900.0
+2024,8,August,Nalgonda & Suryapet,32764.0
+2024,8,August,Narayanapet,1250.0
+2024,8,August,Nirmal,395078.0
+2024,8,August,Nizamabad,89690.0
+2024,8,August,Peddapalli,1664.0
+2024,8,August,Rajanna Sircilla,1786478.0
+2024,8,August,Sangareddy,528650.0
+2024,8,August,Siddipet,146242.0
+2024,8,August,Wanaparthy,2300.0
+2024,8,August,Warangal,18980.0
+2024,8,August,Yadadri Bhongir,726151.0
+2024,9,September,Adilabad,35529.0
+2024,9,September,Bhadradri Kothagudem,73199.0
+2024,9,September,Hanumakonda,37919.0
+2024,9,September,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1291334.0
+2024,9,September,Jagtial,185810.0
+2024,9,September,Jangaon,5680.0
+2024,9,September,Jayashankar Bhoopalpally,15318.0
+2024,9,September,Jogulamba Gadwal,46488.0
+2024,9,September,Kamareddy,60.0
+2024,9,September,Karimnagar,5423.0
+2024,9,September,Khammam,31210.0
+2024,9,September,Komaram Bheem Asifabad,2061.0
+2024,9,September,Mahabubabad,3320.0
+2024,9,September,Mahabubnagar,46000.0
+2024,9,September,Mancherial,7297.0
+2024,9,September,Medak,26983.0
+2024,9,September,Medchal -Malkajigiri,NULL
+2024,9,September,Mulugu,50043.0
+2024,9,September,Nagarkurnool,33900.0
+2024,9,September,Nalgonda & Suryapet,80672.0
+2024,9,September,Narayanapet,850.0
+2024,9,September,Nirmal,409354.0
+2024,9,September,Nizamabad,53152.0
+2024,9,September,Peddapalli,1747.0
+2024,9,September,Rajanna Sircilla,557557.0
+2024,9,September,Sangareddy,152799.0
+2024,9,September,Siddipet,86058.0
+2024,9,September,Wanaparthy,1450.0
+2024,9,September,Warangal,16447.0
+2024,9,September,Yadadri Bhongir,383527.0
+2024,10,October,Adilabad,29176.0
+2024,10,October,Bhadradri Kothagudem,108019.0
+2024,10,October,Hanumakonda,36461.0
+2024,10,October,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",3274212.0
+2024,10,October,Jagtial,227720.0
+2024,10,October,Jangaon,5115.0
+2024,10,October,Jayashankar Bhoopalpally,15380.0
+2024,10,October,Jogulamba Gadwal,48779.0
+2024,10,October,Kamareddy,62.0
+2024,10,October,Karimnagar,5675.0
+2024,10,October,Khammam,68872.0
+2024,10,October,Komaram Bheem Asifabad,10569.0
+2024,10,October,Mahabubabad,3340.0
+2024,10,October,Mahabubnagar,48550.0
+2024,10,October,Mancherial,8830.0
+2024,10,October,Medak,99804.0
+2024,10,October,Medchal -Malkajigiri,NULL
+2024,10,October,Mulugu,51123.0
+2024,10,October,Nagarkurnool,35650.0
+2024,10,October,Nalgonda & Suryapet,74792.0
+2024,10,October,Narayanapet,910.0
+2024,10,October,Nirmal,378760.0
+2024,10,October,Nizamabad,46146.0
+2024,10,October,Peddapalli,1834.0
+2024,10,October,Rajanna Sircilla,776557.0
+2024,10,October,Sangareddy,116640.0
+2024,10,October,Siddipet,122454.0
+2024,10,October,Wanaparthy,1490.0
+2024,10,October,Warangal,17877.0
+2024,10,October,Yadadri Bhongir,518988.0
+2024,11,November,Adilabad,104878.0
+2024,11,November,Bhadradri Kothagudem,82008.0
+2024,11,November,Hanumakonda,39112.0
+2024,11,November,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",1875069.0
+2024,11,November,Jagtial,430303.0
+2024,11,November,Jangaon,4950.0
+2024,11,November,Jayashankar Bhoopalpally,15077.0
+2024,11,November,Jogulamba Gadwal,66865.0
+2024,11,November,Kamareddy,43.0
+2024,11,November,Karimnagar,5816.0
+2024,11,November,Khammam,45442.0
+2024,11,November,Komaram Bheem Asifabad,2349.0
+2024,11,November,Mahabubabad,5250.0
+2024,11,November,Mahabubnagar,141800.0
+2024,11,November,Mancherial,10021.0
+2024,11,November,Medak,79877.0
+2024,11,November,Medchal -Malkajigiri,NULL
+2024,11,November,Mulugu,53169.0
+2024,11,November,Nagarkurnool,42200.0
+2024,11,November,Nalgonda & Suryapet,88653.0
+2024,11,November,Narayanapet,1400.0
+2024,11,November,Nirmal,389743.0
+2024,11,November,Nizamabad,153057.0
+2024,11,November,Peddapalli,1926.0
+2024,11,November,Rajanna Sircilla,1304854.0
+2024,11,November,Sangareddy,276645.0
+2024,11,November,Siddipet,187169.0
+2024,11,November,Wanaparthy,1900.0
+2024,11,November,Warangal,19014.0
+2024,11,November,Yadadri Bhongir,972728.0
+2024,12,December,Adilabad,32892.0
+2024,12,December,Bhadradri Kothagudem,131923.0
+2024,12,December,Hanumakonda,38695.0
+2024,12,December,"Hyderabad,Ranga Reddy,Medchal - Malkajigiri,Vikarabad",3487707.0
+2024,12,December,Jagtial,209682.0
+2024,12,December,Jangaon,5605.0
+2024,12,December,Jayashankar Bhoopalpally,16545.0
+2024,12,December,Jogulamba Gadwal,68032.0
+2024,12,December,Kamareddy,43.0
+2024,12,December,Karimnagar,6239.0
+2024,12,December,Khammam,60712.0
+2024,12,December,Komaram Bheem Asifabad,2311.0
+2024,12,December,Mahabubabad,3860.0
+2024,12,December,Mahabubnagar,91300.0
+2024,12,December,Mancherial,9981.0
+2024,12,December,Medak,83504.0
+2024,12,December,Medchal -Malkajigiri,NULL
+2024,12,December,Mulugu,53035.0
+2024,12,December,Nagarkurnool,42500.0
+2024,12,December,Nalgonda & Suryapet,65841.0
+2024,12,December,Narayanapet,4180.0
+2024,12,December,Nirmal,380856.0
+2024,12,December,Nizamabad,70826.0
+2024,12,December,Peddapalli,2022.0
+2024,12,December,Rajanna Sircilla,899057.0
+2024,12,December,Sangareddy,129750.0
+2024,12,December,Siddipet,154919.0
+2024,12,December,Wanaparthy,1700.0
+2024,12,December,Warangal,17815.0
+2024,12,December,Yadadri Bhongir,861921.0
